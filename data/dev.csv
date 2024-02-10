@@ -1,0 +1,839 @@
+,sentence,words,labels,task
+0,Let's make a friends note with the name comprar fruta in Keep.,"[""Let's"", ""make"", ""a"", ""friends"", ""note"", ""with"", ""the"", ""name"", ""comprar"", ""fruta"", ""in"", ""Keep"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", 0, 0, 0]",Create_note
+1,Write a shared memo with Erinnerungsfunktion.,"[""Write"", ""a"", ""shared"", ""memo"", ""with"", ""Erinnerungsfunktion"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+2,Create a shopping note Keep में.,"[""Create"", ""a"", ""shopping"", ""note"", ""Keep"", ""\u092e\u0947\u0902"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+3,Escribir memo shared with a reminder.,"[""Escribir"", ""memo"", ""shared"", ""with"", ""a"", ""reminder"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+4,Create a memo to buy सब्जी.,"[""Create"", ""a"", ""memo"", ""to"", ""buy"", ""\u0938\u092c\u094d\u091c\u0940"", "".""]","[0, 0, 0, 0, ""content"", ""content"", 0]",Create_note
+5,Add this to new note called à faire en urgence.,"[""Add"", ""this"", ""to"", ""new"", ""note"", ""called"", ""\u00e0"", ""faire"", ""en"", ""urgence"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+6,Let’s make a note for 19時.,"[""Let\u2019s"", ""make"", ""a"", ""note"", ""for"", ""19\u6642"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+7,Make a memo for 10 Uhr.,"[""Make"", ""a"", ""memo"", ""for"", ""10"", ""Uhr"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+8,Let's make a memo called काम.,"[""Let's"", ""make"", ""a"", ""memo"", ""called"", ""\u0915\u093e\u092e"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+9,Crea una nota household for Jerry.,"[""Crea"", ""una"", ""nota"", ""household"", ""for"", ""Jerry"", "".""]","[0, 0, 0, 0, 0, ""person"", 0]",Create_note
+10,Create a note for Hansjörg.,"[""Create"", ""a"", ""note"", ""for"", ""Hansj\u00f6rg"", "".""]","[0, 0, 0, 0, ""person"", 0]",Create_note
+11,I'd like you to créer a note for Thomas.,"[""I'd"", ""like"", ""you"", ""to"", ""cr\u00e9er"", ""a"", ""note"", ""for"", ""Thomas"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+12,Add a note with a rappel for Karine.,"[""Add"", ""a"", ""note"", ""with"", ""a"", ""rappel"", ""for"", ""Karine"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+13,Create a memo to find croissants.,"[""Create"", ""a"", ""memo"", ""to"", ""find"", ""croissants"", "".""]","[0, 0, 0, 0, ""content"", ""content"", 0]",Create_note
+14,Create a note for la famille with a 7 pm reminder.,"[""Create"", ""a"", ""note"", ""for"", ""la"", ""famille"", ""with"", ""a"", ""7"", ""pm"", ""reminder"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+15,Erstelle a new note on my iPhone.,"[""Erstelle"", ""a"", ""new"", ""note"", ""on"", ""my"", ""iPhone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+16,Add this to Apple notes.,"[""Add"", ""this"", ""to"", ""Apple"", ""notes"", "".""]","[0, 0, 0, 0, 0, 0]",Create_note
+17,Create a memo for 9pm and call it rendez-vous dentiste.,"[""Create"", ""a"", ""memo"", ""for"", ""9pm"", ""and"", ""call"", ""it"", ""rendez-vous"", ""dentiste"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+18,Create a memo to visit bonne-maman after school for Cécile.,"[""Create"", ""a"", ""memo"", ""to"", ""visit"", ""bonne-maman"", ""after"", ""school"", ""for"", ""C\u00e9cile"", "".""]","[0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0, ""person"", 0]",Create_note
+19,Can you create a घर का सामान note for Jerry?,"[""Can"", ""you"", ""create"", ""a"", ""\u0918\u0930"", ""\u0915\u093e"", ""\u0938\u093e\u092e\u093e\u0928"", ""note"", ""for"", ""Jerry"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+20,Create a new note with a mémo.,"[""Create"", ""a"", ""new"", ""note"", ""with"", ""a"", ""m\u00e9mo"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+21,Create a new note with a reminder in Recordatorios.,"[""Create"", ""a"", ""new"", ""note"", ""with"", ""a"", ""reminder"", ""in"", ""Recordatorios"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+22,Let's make a family memo called trip to Challes-les-Eaux.,"[""Let's"", ""make"", ""a"", ""family"", ""memo"", ""called"", ""trip"", ""to"", ""Challes-les-Eaux"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+23,Can you create a birthday Notiz in Keep?,"[""Can"", ""you"", ""create"", ""a"", ""birthday"", ""Notiz"", ""in"", ""Keep"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+24,Crear a reminder in Keep.,"[""Crear"", ""a"", ""reminder"", ""in"", ""Keep"", "".""]","[0, 0, 0, 0, 0, 0]",Create_note
+25,Let's make a परिवार memo called chores.,"[""Let's"", ""make"", ""a"", ""\u092a\u0930\u093f\u0935\u093e\u0930"", ""memo"", ""called"", ""chores"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+26,Could you make a post-it note that says rendez-vous demain.,"[""Could"", ""you"", ""make"", ""a"", ""post-it"", ""note"", ""that"", ""says"", ""rendez-vous"", ""demain"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", 0]",Create_note
+27,Crea una sticky note.,"[""Crea"", ""una"", ""sticky"", ""note"", "".""]","[0, 0, 0, 0, 0]",Create_note
+28,Let's create a shared Erinnerung with a reminder.,"[""Let's"", ""create"", ""a"", ""shared"", ""Erinnerung"", ""with"", ""a"", ""reminder"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+29,Add: Atelier Cézanne to Vacances en Provence.,"[""Add"", "":"", ""Atelier"", ""C\u00e9zanne"", ""to"", ""Vacances"", ""en"", ""Provence"", "".""]","[0, 0, ""content"", ""content"", 0, 0, 0, 0, 0]",Create_note
+30,Crea a memo to buy milk and eggs.,"[""Crea"", ""a"", ""memo"", ""to"", ""buy"", ""milk"", ""and"", ""eggs"", "".""]","[0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+31,Montre les emails with pictures attached in Gmail.,"[""Montre"", ""les"", ""emails"", ""with"", ""pictures"", ""attached"", ""in"", ""Gmail"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+32,Read the Textnachricht.,"[""Read"", ""the"", ""Textnachricht"", "".""]","[0, 0, 0, 0]",Get_message_content
+33,Can you बता सकते हो me what Bob said in his message?,"[""Can"", ""you"", ""\u092c\u0924\u093e"", ""\u0938\u0915\u0924\u0947"", ""\u0939\u094b"", ""me"", ""what"", ""Bob"", ""said"", ""in"", ""his"", ""message"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+34,What does Babita का WhatsApp message says?,"[""What"", ""does"", ""Babita"", ""\u0915\u093e"", ""WhatsApp"", ""message"", ""says"", ""?""]","[0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+35,WhatsApp के starred messages दो।,"[""WhatsApp"", ""\u0915\u0947"", ""starred"", ""messages"", ""\u0926\u094b\u0964""]","[0, 0, 0, 0, 0]",Get_message_content
+36,Can you tell me what Bob said in his メッセージ?,"[""Can"", ""you"", ""tell"", ""me"", ""what"", ""Bob"", ""said"", ""in"", ""his"", ""\u30e1\u30c3\u30bb\u30fc\u30b8"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+37,Recupera los emails with attachments.,"[""Recupera"", ""los"", ""emails"", ""with"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+38,Show me Neeru के 3 messages.,"[""Show"", ""me"", ""Neeru"", ""\u0915\u0947"", ""3"", ""messages"", "".""]","[0, 0, ""person"", 0, 0, 0, 0]",Get_message_content
+39,New messages दो।,"[""New"", ""messages"", ""\u0926\u094b\u0964""]","[0, 0, 0]",Get_message_content
+40,New Messages regarding the Party anzeigen!,"[""New"", ""Messages"", ""regarding"", ""the"", ""Party"", ""anzeigen"", ""!""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+41,Read me the first 3 messages from abuela in Gmail.,"[""Read"", ""me"", ""the"", ""first"", ""3"", ""messages"", ""from"", ""abuela"", ""in"", ""Gmail"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+42,Enséñame the messages with the content reunión a las 17:00.,"[""Ens\u00e9\u00f1ame"", ""the"", ""messages"", ""with"", ""the"", ""content"", ""reuni\u00f3n"", ""a"", ""las"", ""17:00"", "".""]","[0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0]",Get_message_content
+43,Display messages about la fiesta de hoy.,"[""Display"", ""messages"", ""about"", ""la"", ""fiesta"", ""de"", ""hoy"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+44,Dime what Pedro said in his message.,"[""Dime"", ""what"", ""Pedro"", ""said"", ""in"", ""his"", ""message"", "".""]","[0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+45,Léeme my audio messages.,"[""L\u00e9eme"", ""my"", ""audio"", ""messages"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+46,Read new email.,"[""Read"", ""new"", ""email"", "".""]","[0, 0, 0, 0]",Get_message_content
+47,Can you tell me what Bob said in his message in Skype Empresarial?,"[""Can"", ""you"", ""tell"", ""me"", ""what"", ""Bob"", ""said"", ""in"", ""his"", ""message"", ""in"", ""Skype"", ""Empresarial"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+48,Get my starred mensajes on Telegram.,"[""Get"", ""my"", ""starred"", ""mensajes"", ""on"", ""Telegram"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+49,Get me the message mit dem Inhalt please rsvp below.,"[""Get"", ""me"", ""the"", ""message"", ""mit"", ""dem"", ""Inhalt"", ""please"", ""rsvp"", ""below"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", 0]",Get_message_content
+50,Emails from today vorlesen!,"[""Emails"", ""from"", ""today"", ""vorlesen"", ""!""]","[0, 0, 0, 0, 0]",Get_message_content
+51,Get नया Skype messages.,"[""Get"", ""\u0928\u092f\u093e"", ""Skype"", ""messages"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+52,Que dit le message WhatsApp from Bob ?,"[""Que"", ""dit"", ""le"", ""message"", ""WhatsApp"", ""from"", ""Bob"", ""?""]","[0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+53,Retrieve the emails non lus in Gmail.,"[""Retrieve"", ""the"", ""emails"", ""non"", ""lus"", ""in"", ""Gmail"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+54,Could you give me Messages for this week?,"[""Could"", ""you"", ""give"", ""me"", ""Messages"", ""for"", ""this"", ""week"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+55,Read me the first 3 Messages from Bob.,"[""Read"", ""me"", ""the"", ""first"", ""3"", ""Messages"", ""from"", ""Bob"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+56,Show me emails जिसमें pictures attached हो in Outlook.,"[""Show"", ""me"", ""emails"", ""\u091c\u093f\u0938\u092e\u0947\u0902"", ""pictures"", ""attached"", ""\u0939\u094b"", ""in"", ""Outlook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+57,Leer starred messages en WhatsApp.,"[""Leer"", ""starred"", ""messages"", ""en"", ""WhatsApp"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+58,Can you tell me what Bob said in his Nachricht?,"[""Can"", ""you"", ""tell"", ""me"", ""what"", ""Bob"", ""said"", ""in"", ""his"", ""Nachricht"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+59,Tell me what Amélie says in her email.,"[""Tell"", ""me"", ""what"", ""Am\u00e9lie"", ""says"", ""in"", ""her"", ""email"", "".""]","[0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+60,Retrieve unread E-Mails with attachments.,"[""Retrieve"", ""unread"", ""E-Mails"", ""with"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+61,Emails from today anzeigen!,"[""Emails"", ""from"", ""today"", ""anzeigen"", ""!""]","[0, 0, 0, 0, 0]",Get_message_content
+62,"What did the text say from John, i mean, Billy?","[""What"", ""did"", ""the"", ""text"", ""say"", ""from"", ""John,"", ""i"", ""mean,"", ""Billy"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+63,"Read this email, no, text message.","[""Read"", ""this"", ""email,"", ""no,"", ""text"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+64,"Let me see my last 3 emails from work or actually, make that the last 5 emails.","[""Let"", ""me"", ""see"", ""my"", ""last"", ""3"", ""emails"", ""from"", ""work"", ""or"", ""actually,"", ""make"", ""that"", ""the"", ""last"", ""5"", ""emails"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+65,"show starred emails in Outlook, umm GMail","[""show"", ""starred"", ""emails"", ""in"", ""Outlook,"", ""umm"", ""GMail""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+66,Tell me actually show me new texts from Joe.,"[""Tell"", ""me"", ""actually"", ""show"", ""me"", ""new"", ""texts"", ""from"", ""Joe"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+67,"I would like you to show me this email, I mean text from Joe.","[""I"", ""would"", ""like"", ""you"", ""to"", ""show"", ""me"", ""this"", ""email,"", ""I"", ""mean"", ""text"", ""from"", ""Joe"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+68,"Show me emails related to Business A, ummm, actually make it Business B.","[""Show"", ""me"", ""emails"", ""related"", ""to"", ""Business"", ""A,"", ""ummm,"", ""actually"", ""make"", ""it"", ""Business"", ""B"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+69,What's in the email from Angelo I mean Tony?,"[""What's"", ""in"", ""the"", ""email"", ""from"", ""Angelo"", ""I"", ""mean"", ""Tony"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+70,"Will you please bring up all documents, uh, emails titled 'Sensitive Material'","[""Will"", ""you"", ""please"", ""bring"", ""up"", ""all"", ""documents,"", ""uh,"", ""emails"", ""titled"", ""'"", ""Sensitive"", ""Material"", ""'""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+71,"I want to see what’s in the email, no, text from Joe.","[""I"", ""want"", ""to"", ""see"", ""what\u2019s"", ""in"", ""the"", ""email,"", ""no,"", ""text"", ""from"", ""Joe"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+72,"Get me the audio message from Mike, ugh, I mean Matt Tate sent yesterday evening.","[""Get"", ""me"", ""the"", ""audio"", ""message"", ""from"", ""Mike,"", ""ugh,"", ""I"", ""mean"", ""Matt"", ""Tate"", ""sent"", ""yesterday"", ""evening"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0, 0, 0, 0]",Get_message_content
+73,"Did you get the text, uh, the email?","[""Did"", ""you"", ""get"", ""the"", ""text,"", ""uh,"", ""the"", ""email"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+74,"Sort through and display all my new IM's, I mean emails for today.","[""Sort"", ""through"", ""and"", ""display"", ""all"", ""my"", ""new"", ""IM's,"", ""I"", ""mean"", ""emails"", ""for"", ""today"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+75,Display the text message that was sent at 4:35 pm today uh 4:35 pm yesterday.,"[""Display"", ""the"", ""text"", ""message"", ""that"", ""was"", ""sent"", ""at"", ""4:35"", ""pm"", ""today"", ""uh"", ""4:35"", ""pm"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+76,"Find the latest emails from Pam, I mean Jim.","[""Find"", ""the"", ""latest"", ""emails"", ""from"", ""Pam,"", ""I"", ""mean"", ""Jim"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+77,Show me I mean tell me my new text messages.,"[""Show"", ""me"", ""I"", ""mean"", ""tell"", ""me"", ""my"", ""new"", ""text"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+78,"Retrieve all of my emails with images, I mean, with attachments.","[""Retrieve"", ""all"", ""of"", ""my"", ""emails"", ""with"", ""images,"", ""I"", ""mean,"", ""with"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+79,"I want to see the audio message I received on Sunday night, no actually it was on Saturday.","[""I"", ""want"", ""to"", ""see"", ""the"", ""audio"", ""message"", ""I"", ""received"", ""on"", ""Sunday"", ""night,"", ""no"", ""actually"", ""it"", ""was"", ""on"", ""Saturday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+80,"Read me the email, I mean the text from Thomas.","[""Read"", ""me"", ""the"", ""email,"", ""I"", ""mean"", ""the"", ""text"", ""from"", ""Thomas"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+81,Read all messages from Tony no rather Mike.,"[""Read"", ""all"", ""messages"", ""from"", ""Tony"", ""no"", ""rather"", ""Mike"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+82,"I would like to get the message from the read, wait, recent label.","[""I"", ""would"", ""like"", ""to"", ""get"", ""the"", ""message"", ""from"", ""the"", ""read,"", ""wait,"", ""recent"", ""label"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+83,What's in the SMS from Paul I mean Tom?,"[""What's"", ""in"", ""the"", ""SMS"", ""from"", ""Paul"", ""I"", ""mean"", ""Tom"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+84,"What is in the text from June, I mean Bob.","[""What"", ""is"", ""in"", ""the"", ""text"", ""from"", ""June,"", ""I"", ""mean"", ""Bob"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+85,Show me the unread text no Whatsapp messages.,"[""Show"", ""me"", ""the"", ""unread"", ""text"", ""no"", ""Whatsapp"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+86,"Play me, actually, read me my most recent email.","[""Play"", ""me,"", ""actually,"", ""read"", ""me"", ""my"", ""most"", ""recent"", ""email"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+87,"Show me new, I mean the starred messages.","[""Show"", ""me"", ""new,"", ""I"", ""mean"", ""the"", ""starred"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+88,"Read me my new text, I mean email.","[""Read"", ""me"", ""my"", ""new"", ""text,"", ""I"", ""mean"", ""email"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+89,I need you to show me I mean read to me the message from the vet.,"[""I"", ""need"", ""you"", ""to"", ""show"", ""me"", ""I"", ""mean"", ""read"", ""to"", ""me"", ""the"", ""message"", ""from"", ""the"", ""vet"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Get_message_content
+90,"See if there are new Skype messages from Jimmy, or actually, from Jimmy's wife.","[""See"", ""if"", ""there"", ""are"", ""new"", ""Skype"", ""messages"", ""from"", ""Jimmy,"", ""or"", ""actually,"", ""from"", ""Jimmy's"", ""wife"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Get_message_content
+91,"display emails, um no text about my date with Mindy tonight","[""display"", ""emails,"", ""um"", ""no"", ""text"", ""about"", ""my"", ""date"", ""with"", ""Mindy"", ""tonight""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+92,"View the contents of the email, no, message.","[""View"", ""the"", ""contents"", ""of"", ""the"", ""email,"", ""no,"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+93,Show me er read me the starred message from Dina.,"[""Show"", ""me"", ""er"", ""read"", ""me"", ""the"", ""starred"", ""message"", ""from"", ""Dina"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+94,"Check my mail for messages from Sydney, I mean Jean.","[""Check"", ""my"", ""mail"", ""for"", ""messages"", ""from"", ""Sydney,"", ""I"", ""mean"", ""Jean"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+95,"Get me the last five, no sorry, the last ten unread e-mails.","[""Get"", ""me"", ""the"", ""last"", ""five,"", ""no"", ""sorry,"", ""the"", ""last"", ""ten"", ""unread"", ""e-mails"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+96,"Get audio messages, no text messages.","[""Get"", ""audio"", ""messages,"", ""no"", ""text"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+97,"I want to see texts, I mean emails.","[""I"", ""want"", ""to"", ""see"", ""texts,"", ""I"", ""mean"", ""emails"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+98,"Show starred emails in my personal, I mean my work account.","[""Show"", ""starred"", ""emails"", ""in"", ""my"", ""personal,"", ""I"", ""mean"", ""my"", ""work"", ""account"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+99,"What does the Facebook message from Jim, er I mean Jackson say?","[""What"", ""does"", ""the"", ""Facebook"", ""message"", ""from"", ""Jim,"", ""er"", ""I"", ""mean"", ""Jackson"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+100,"Can you tell me what mary said in the message, I mean email","[""Can"", ""you"", ""tell"", ""me"", ""what"", ""mary"", ""said"", ""in"", ""the"", ""message,"", ""I"", ""mean"", ""email""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+101,Tell me my new I mean starred messages.,"[""Tell"", ""me"", ""my"", ""new"", ""I"", ""mean"", ""starred"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+102,"What did mom say no, I mean dad say in his email this morning?","[""What"", ""did"", ""mom"", ""say"", ""no,"", ""I"", ""mean"", ""dad"", ""say"", ""in"", ""his"", ""email"", ""this"", ""morning"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+103,"I want to see all of my new emails without, uh, I mean, with photos attached.","[""I"", ""want"", ""to"", ""see"", ""all"", ""of"", ""my"", ""new"", ""emails"", ""without,"", ""uh,"", ""I"", ""mean,"", ""with"", ""photos"", ""attached"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+104,Please read my starred oops my unread messages.,"[""Please"", ""read"", ""my"", ""starred"", ""oops"", ""my"", ""unread"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+105,"Tell me what the email says, actually I mean text","[""Tell"", ""me"", ""what"", ""the"", ""email"", ""says,"", ""actually"", ""I"", ""mean"", ""text""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+106,"Get the message from the read, no, recent label.","[""Get"", ""the"", ""message"", ""from"", ""the"", ""read,"", ""no,"", ""recent"", ""label"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+107,"Read me all read messages, sorry, all unread messages.","[""Read"", ""me"", ""all"", ""read"", ""messages,"", ""sorry,"", ""all"", ""unread"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+108,"Display this message, oops I mean email.","[""Display"", ""this"", ""message,"", ""oops"", ""I"", ""mean"", ""email"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+109,"What does the email say, I mean text","[""What"", ""does"", ""the"", ""email"", ""say,"", ""I"", ""mean"", ""text""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+110,"I want to see the messages from yesterday in my Facebook messenger about the reunion, I meant the homecoming party.","[""I"", ""want"", ""to"", ""see"", ""the"", ""messages"", ""from"", ""yesterday"", ""in"", ""my"", ""Facebook"", ""messenger"", ""about"", ""the"", ""reunion,"", ""I"", ""meant"", ""the"", ""homecoming"", ""party"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+111,"Please tell, I mean read my last 3 messages.","[""Please"", ""tell,"", ""I"", ""mean"", ""read"", ""my"", ""last"", ""3"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+112,Display no I mean read me the last email.,"[""Display"", ""no"", ""I"", ""mean"", ""read"", ""me"", ""the"", ""last"", ""email"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+113,"Get new messages, I mean read messages.","[""Get"", ""new"", ""messages,"", ""I"", ""mean"", ""read"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+114,Please read me what Andy wrote in his email no in his Facebook message.,"[""Please"", ""read"", ""me"", ""what"", ""Andy"", ""wrote"", ""in"", ""his"", ""email"", ""no"", ""in"", ""his"", ""Facebook"", ""message"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+115,Read this message sorry email,"[""Read"", ""this"", ""message"", ""sorry"", ""email""]","[0, 0, 0, 0, 0]",Get_message_content
+116,"I need the message from the read, no, starred label.","[""I"", ""need"", ""the"", ""message"", ""from"", ""the"", ""read,"", ""no,"", ""starred"", ""label"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+117,"Find my starred texts, I mean emails and display them.","[""Find"", ""my"", ""starred"", ""texts,"", ""I"", ""mean"", ""emails"", ""and"", ""display"", ""them"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+118,"I want to know what Bill said in his text message, I mean email.","[""I"", ""want"", ""to"", ""know"", ""what"", ""Bill"", ""said"", ""in"", ""his"", ""text"", ""message,"", ""I"", ""mean"", ""email"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+119,"Show messages for last week, wait, this week.","[""Show"", ""messages"", ""for"", ""last"", ""week,"", ""wait,"", ""this"", ""week"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+120,I want to see the email sorry message from Jack.,"[""I"", ""want"", ""to"", ""see"", ""the"", ""email"", ""sorry"", ""message"", ""from"", ""Jack"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+121,"What does the email say, Actually text","[""What"", ""does"", ""the"", ""email"", ""say,"", ""Actually"", ""text""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+122,Show me the Facebook no Instagram message.,"[""Show"", ""me"", ""the"", ""Facebook"", ""no"", ""Instagram"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+123,What does the text no email from John say?,"[""What"", ""does"", ""the"", ""text"", ""no"", ""email"", ""from"", ""John"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+124,"I want to hear my new email from today read to me, or actually just display them.","[""I"", ""want"", ""to"", ""hear"", ""my"", ""new"", ""email"", ""from"", ""today"", ""read"", ""to"", ""me,"", ""or"", ""actually"", ""just"", ""display"", ""them"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+125,I want you to read the text from Jen no from Jackie.,"[""I"", ""want"", ""you"", ""to"", ""read"", ""the"", ""text"", ""from"", ""Jen"", ""no"", ""from"", ""Jackie"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+126,"Display my text, uh, no, actually, my email with the content 'Please read this thoroughly:'","[""Display"", ""my"", ""text,"", ""uh,"", ""no,"", ""actually,"", ""my"", ""email"", ""with"", ""the"", ""content"", ""'"", ""Please"", ""read"", ""this"", ""thoroughly"", "":"", ""'""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0, 0]",Get_message_content
+127,"Show me my read, I mean unread emails with attachments.","[""Show"", ""me"", ""my"", ""read,"", ""I"", ""mean"", ""unread"", ""emails"", ""with"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+128,What's in the WhatsApp message from Angel I mean Bob.,"[""What's"", ""in"", ""the"", ""WhatsApp"", ""message"", ""from"", ""Angel"", ""I"", ""mean"", ""Bob"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+129,What does the email from George no John say from yesterday?,"[""What"", ""does"", ""the"", ""email"", ""from"", ""George"", ""no"", ""John"", ""say"", ""from"", ""yesterday"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Get_message_content
+130,"What does my email, I meant text say?","[""What"", ""does"", ""my"", ""email,"", ""I"", ""meant"", ""text"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+131,Show me my last 10 no 20 messages.,"[""Show"", ""me"", ""my"", ""last"", ""10"", ""no"", ""20"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+132,Read me i mean show me the new email in Gmail.,"[""Read"", ""me"", ""i"", ""mean"", ""show"", ""me"", ""the"", ""new"", ""email"", ""in"", ""Gmail"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+133,"Retrieve unread emails with attachments, oops, I mean without attachments.","[""Retrieve"", ""unread"", ""emails"", ""with"", ""attachments,"", ""oops,"", ""I"", ""mean"", ""without"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+134,"Show me my emails from work, I mean from HR.","[""Show"", ""me"", ""my"", ""emails"", ""from"", ""work,"", ""I"", ""mean"", ""from"", ""HR"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+135,"Let me see the email, I mean the text that says meet here on Friday.","[""Let"", ""me"", ""see"", ""the"", ""email,"", ""I"", ""mean"", ""the"", ""text"", ""that"", ""says"", ""meet"", ""here"", ""on"", ""Friday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0]",Get_message_content
+136,"Display the message from Carey about the birthday, I mean retirement party.","[""Display"", ""the"", ""message"", ""from"", ""Carey"", ""about"", ""the"", ""birthday,"", ""I"", ""mean"", ""retirement"", ""party"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+137,"Read my starred, er I mean new messages about the party yesterday.","[""Read"", ""my"", ""starred,"", ""er"", ""I"", ""mean"", ""new"", ""messages"", ""about"", ""the"", ""party"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+138,"Show me my unread emails, I mean texts.","[""Show"", ""me"", ""my"", ""unread"", ""emails,"", ""I"", ""mean"", ""texts"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+139,I want to see the Instagram email no message.,"[""I"", ""want"", ""to"", ""see"", ""the"", ""Instagram"", ""email"", ""no"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+140,"Can you read me the first 2, no 3 emails Joe sent today?","[""Can"", ""you"", ""read"", ""me"", ""the"", ""first"", ""2,"", ""no"", ""3"", ""emails"", ""Joe"", ""sent"", ""today"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+141,"View this message, wait, email.","[""View"", ""this"", ""message,"", ""wait,"", ""email"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+142,Show me my unread Whatsapp oops I meant Outlook messages now.,"[""Show"", ""me"", ""my"", ""unread"", ""Whatsapp"", ""oops"", ""I"", ""meant"", ""Outlook"", ""messages"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+143,Show me actually tell me what Marcia said in her message.,"[""Show"", ""me"", ""actually"", ""tell"", ""me"", ""what"", ""Marcia"", ""said"", ""in"", ""her"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+144,"Will you please play voice messages on bluetooth, no speakerphone.","[""Will"", ""you"", ""please"", ""play"", ""voice"", ""messages"", ""on"", ""bluetooth,"", ""no"", ""speakerphone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+145,"Display messages about the party, I mean meeting.","[""Display"", ""messages"", ""about"", ""the"", ""party,"", ""I"", ""mean"", ""meeting"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+146,"show starred emails, umm starred Facebook messages","[""show"", ""starred"", ""emails,"", ""umm"", ""starred"", ""Facebook"", ""messages""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+147,"Find the email about the fundraiser, I mean 5K run and read it to me.","[""Find"", ""the"", ""email"", ""about"", ""the"", ""fundraiser,"", ""I"", ""mean"", ""5K"", ""run"", ""and"", ""read"", ""it"", ""to"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+148,Please read me my text i mean my email from my sister.,"[""Please"", ""read"", ""me"", ""my"", ""text"", ""i"", ""mean"", ""my"", ""email"", ""from"", ""my"", ""sister"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Get_message_content
+149,"Read, no, show me what Ryan said in his text message today.","[""Read,"", ""no,"", ""show"", ""me"", ""what"", ""Ryan"", ""said"", ""in"", ""his"", ""text"", ""message"", ""today"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+150,"Please find all emails sent last week from Sydney, I mean Jean.","[""Please"", ""find"", ""all"", ""emails"", ""sent"", ""last"", ""week"", ""from"", ""Sydney,"", ""I"", ""mean"", ""Jean"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+151,"What does the Facebook, I mean Instagram message from Joe say?","[""What"", ""does"", ""the"", ""Facebook,"", ""I"", ""mean"", ""Instagram"", ""message"", ""from"", ""Joe"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+152,What did Julie I mean Jennifer say in her message?,"[""What"", ""did"", ""Julie"", ""I"", ""mean"", ""Jennifer"", ""say"", ""in"", ""her"", ""message"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+153,"Please read the email from Todd, no text from Todd.","[""Please"", ""read"", ""the"", ""email"", ""from"", ""Todd,"", ""no"", ""text"", ""from"", ""Todd"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+154,What's in the e um email from Dorsey?,"[""What's"", ""in"", ""the"", ""e"", ""um"", ""email"", ""from"", ""Dorsey"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+155,What did ah what did Clara say in her text?,"[""What"", ""did"", ""ah"", ""what"", ""did"", ""Clara"", ""say"", ""in"", ""her"", ""text"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+156,Read the mess message about the washer and dryer.,"[""Read"", ""the"", ""mess"", ""message"", ""about"", ""the"", ""washer"", ""and"", ""dryer"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+157,I would like to read my messages my messages from 1:00 this afternoon,"[""I"", ""would"", ""like"", ""to"", ""read"", ""my"", ""messages"", ""my"", ""messages"", ""from"", ""1:00"", ""this"", ""afternoon""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+158,Please show me my uh messages now.,"[""Please"", ""show"", ""me"", ""my"", ""uh"", ""messages"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+159,I want to see uh emails.,"[""I"", ""want"", ""to"", ""see"", ""uh"", ""emails"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+160,Please get my umm new texts.,"[""Please"", ""get"", ""my"", ""umm"", ""new"", ""texts"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+161,"Read aloud that text, tht text from Tim.","[""Read"", ""aloud"", ""that"", ""text,"", ""tht"", ""text"", ""from"", ""Tim"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+162,Show me the uh message I um received.,"[""Show"", ""me"", ""the"", ""uh"", ""message"", ""I"", ""um"", ""received"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+163,What did um what di Bill say in his email?,"[""What"", ""did"", ""um"", ""what"", ""di"", ""Bill"", ""say"", ""in"", ""his"", ""email"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+164,Tell me what Mark had to say to say in his SMS message.,"[""Tell"", ""me"", ""what"", ""Mark"", ""had"", ""to"", ""say"", ""to"", ""say"", ""in"", ""his"", ""SMS"", ""message"", "".""]","[0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+165,What does the message from Cynthia uh say?,"[""What"", ""does"", ""the"", ""message"", ""from"", ""Cynthia"", ""uh"", ""say"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+166,"Read this, um, read this email.","[""Read"", ""this,"", ""um,"", ""read"", ""this"", ""email"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+167,Get the video um video message from my mom.,"[""Get"", ""the"", ""video"", ""um"", ""video"", ""message"", ""from"", ""my"", ""mom"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Get_message_content
+168,"What did Trac say in her, umm, her email?","[""What"", ""did"", ""Trac"", ""say"", ""in"", ""her,"", ""umm,"", ""her"", ""email"", ""?""]","[0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+169,Can you show show me me my emails in in Gmail?,"[""Can"", ""you"", ""show"", ""show"", ""me"", ""me"", ""my"", ""emails"", ""in"", ""in"", ""Gmail"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+170,Show me um what do you call it oh yeah um priority emails in Gmail.,"[""Show"", ""me"", ""um"", ""what"", ""do"", ""you"", ""call"", ""it"", ""oh"", ""yeah"", ""um"", ""priority"", ""emails"", ""in"", ""Gmail"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+171,Get starred Get starred messages on Whats WhatsApp.,"[""Get"", ""starred"", ""Get"", ""starred"", ""messages"", ""on"", ""Whats"", ""WhatsApp"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+172,"Get me my emails from, um from Barbara.","[""Get"", ""me"", ""my"", ""emails"", ""from,"", ""um"", ""from"", ""Barbara"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+173,Show me read sorry unread Facebook messages,"[""Show"", ""me"", ""read"", ""sorry"", ""unread"", ""Facebook"", ""messages""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+174,Read the um email.,"[""Read"", ""the"", ""um"", ""email"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+175,Get starred messages on Whats WhatsApp.,"[""Get"", ""starred"", ""messages"", ""on"", ""Whats"", ""WhatsApp"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+176,Read my my audio messages from this morning.,"[""Read"", ""my"", ""my"", ""audio"", ""messages"", ""from"", ""this"", ""morning"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+177,Retrive my unread unread messages on Gmail please.,"[""Retrive"", ""my"", ""unread"", ""unread"", ""messages"", ""on"", ""Gmail"", ""please"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+178,What does the message from from um Bob say?,"[""What"", ""does"", ""the"", ""message"", ""from"", ""from"", ""um"", ""Bob"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+179,What's in the email that um Blake sent?,"[""What's"", ""in"", ""the"", ""email"", ""that"", ""um"", ""Blake"", ""sent"", ""?""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+180,Read um read starred messages.,"[""Read"", ""um"", ""read"", ""starred"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+181,Can you tell can you tell me what the email says from dad?,"[""Can"", ""you"", ""tell"", ""can"", ""you"", ""tell"", ""me"", ""what"", ""the"", ""email"", ""says"", ""from"", ""dad"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+182,Read me the uh the email from my boss regarding tomorrow's meeting.,"[""Read"", ""me"", ""the"", ""uh"", ""the"", ""email"", ""from"", ""my"", ""boss"", ""regarding"", ""tomorrow's"", ""meeting"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0, 0, 0, 0]",Get_message_content
+183,Show me all starred emails emails from Gmail from yesterday.,"[""Show"", ""me"", ""all"", ""starred"", ""emails"", ""emails"", ""from"", ""Gmail"", ""from"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+184,Read me what um David emailed me.,"[""Read"", ""me"", ""what"", ""um"", ""David"", ""emailed"", ""me"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+185,Get me the last email in my um in my Outlook.,"[""Get"", ""me"", ""the"", ""last"", ""email"", ""in"", ""my"", ""um"", ""in"", ""my"", ""Outlook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+186,What's the recent recent recent message say,"[""What's"", ""the"", ""recent"", ""recent"", ""recent"", ""message"", ""say""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+187,"Please get messages with with, er, attachments.","[""Please"", ""get"", ""messages"", ""with"", ""with,"", ""er,"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+188,What um what did the message from Derek say?,"[""What"", ""um"", ""what"", ""did"", ""the"", ""message"", ""from"", ""Derek"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+189,"Display the messages from, um from mom.","[""Display"", ""the"", ""messages"", ""from,"", ""um"", ""from"", ""mom"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+190,Show me uh yeah Show me the first 3 messages.,"[""Show"", ""me"", ""uh"", ""yeah"", ""Show"", ""me"", ""the"", ""first"", ""3"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+191,Show the emails from um from today.,"[""Show"", ""the"", ""emails"", ""from"", ""um"", ""from"", ""today"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+192,I want to see the uh text.,"[""I"", ""want"", ""to"", ""see"", ""the"", ""uh"", ""text"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+193,Read my fist first four messages from umm yesterday.,"[""Read"", ""my"", ""fist"", ""first"", ""four"", ""messages"", ""from"", ""umm"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+194,I want to get the email from um Sarah.,"[""I"", ""want"", ""to"", ""get"", ""the"", ""email"", ""from"", ""um"", ""Sarah"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+195,"Can you tell me, tell me what Christina said in her message.","[""Can"", ""you"", ""tell"", ""me,"", ""tell"", ""me"", ""what"", ""Christina"", ""said"", ""in"", ""her"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+196,Show me the message I uh received.,"[""Show"", ""me"", ""the"", ""message"", ""I"", ""uh"", ""received"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+197,"Get um, can you get video messages?","[""Get"", ""um,"", ""can"", ""you"", ""get"", ""video"", ""messages"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+198,Show me the unstarred um messages.,"[""Show"", ""me"", ""the"", ""unstarred"", ""um"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+199,Open uh open my unread message.,"[""Open"", ""uh"", ""open"", ""my"", ""unread"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+200,Get get the video message from Bruce.,"[""Get"", ""get"", ""the"", ""video"", ""message"", ""from"", ""Bruce"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+201,Read mess that message.,"[""Read"", ""mess"", ""that"", ""message"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+202,I need to see the text from the text from Nancy about the surprise party.,"[""I"", ""need"", ""to"", ""see"", ""the"", ""text"", ""from"", ""the"", ""text"", ""from"", ""Nancy"", ""about"", ""the"", ""surprise"", ""party"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+203,Get starred Get starred messages on WhatsApp.,"[""Get"", ""starred"", ""Get"", ""starred"", ""messages"", ""on"", ""WhatsApp"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+204,I want to open um that email from Jane.,"[""I"", ""want"", ""to"", ""open"", ""um"", ""that"", ""email"", ""from"", ""Jane"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+205,"Retrieve recent messages with um, with attachments.","[""Retrieve"", ""recent"", ""messages"", ""with"", ""um,"", ""with"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+206,Get my new messages from umm Harry.,"[""Get"", ""my"", ""new"", ""messages"", ""from"", ""umm"", ""Harry"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+207,Let me um see this uh email.,"[""Let"", ""me"", ""um"", ""see"", ""this"", ""uh"", ""email"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+208,Show me me the newest message from Carl on Whatsapp.,"[""Show"", ""me"", ""me"", ""the"", ""newest"", ""message"", ""from"", ""Carl"", ""on"", ""Whatsapp"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+209,Get me the stuff in the last text text from that text from Scott.,"[""Get"", ""me"", ""the"", ""stuff"", ""in"", ""the"", ""last"", ""text"", ""text"", ""from"", ""that"", ""text"", ""from"", ""Scott"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+210,I am ready to read the message from Cynthia right now right now.,"[""I"", ""am"", ""ready"", ""to"", ""read"", ""the"", ""message"", ""from"", ""Cynthia"", ""right"", ""now"", ""right"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+211,Show me my unread unread emails.,"[""Show"", ""me"", ""my"", ""unread"", ""unread"", ""emails"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+212,"Get um, get um, video messages.","[""Get"", ""um,"", ""get"", ""um,"", ""video"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+213,Get my work emails with with attachments.,"[""Get"", ""my"", ""work"", ""emails"", ""with"", ""with"", ""attachments"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+214,Display messages on umm Outlook that are starred with attachments from last week.,"[""Display"", ""messages"", ""on"", ""umm"", ""Outlook"", ""that"", ""are"", ""starred"", ""with"", ""attachments"", ""from"", ""last"", ""week"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+215,Tell me what um Suzy uh said in her last um message.,"[""Tell"", ""me"", ""what"", ""um"", ""Suzy"", ""uh"", ""said"", ""in"", ""her"", ""last"", ""um"", ""message"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+216,Read me my uh text.,"[""Read"", ""me"", ""my"", ""uh"", ""text"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+217,Get me the uh messaage.,"[""Get"", ""me"", ""the"", ""uh"", ""messaage"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+218,"I would like you to display my, my unread emails.","[""I"", ""would"", ""like"", ""you"", ""to"", ""display"", ""my,"", ""my"", ""unread"", ""emails"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+219,I want to see all new um messages.,"[""I"", ""want"", ""to"", ""see"", ""all"", ""new"", ""um"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+220,"Read my new um my new, Instagram direct.","[""Read"", ""my"", ""new"", ""um"", ""my"", ""new,"", ""Instagram"", ""direct"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+221,Show me the face Facebook message from Haley.,"[""Show"", ""me"", ""the"", ""face"", ""Facebook"", ""message"", ""from"", ""Haley"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+222,What does my um whatsapp message say,"[""What"", ""does"", ""my"", ""um"", ""whatsapp"", ""message"", ""say""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+223,Read this um this email,"[""Read"", ""this"", ""um"", ""this"", ""email""]","[0, 0, 0, 0, 0]",Get_message_content
+224,Please tell me what the um message from Sarah say.,"[""Please"", ""tell"", ""me"", ""what"", ""the"", ""um"", ""message"", ""from"", ""Sarah"", ""say"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+225,"Tell me what was said in the last message from umm, Joanne.","[""Tell"", ""me"", ""what"", ""was"", ""said"", ""in"", ""the"", ""last"", ""message"", ""from"", ""umm,"", ""Joanne"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+226,Show me the uh the message from Todd.,"[""Show"", ""me"", ""the"", ""uh"", ""the"", ""message"", ""from"", ""Todd"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+227,Show me umm my new texts from Sam.,"[""Show"", ""me"", ""umm"", ""my"", ""new"", ""texts"", ""from"", ""Sam"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+228,Will you tell me what's in the message I got from Katie?,"[""Will"", ""you"", ""tell"", ""me"", ""what's"", ""in"", ""the"", ""message"", ""I"", ""got"", ""from"", ""Katie"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+229,Read me the text that starts with I'm on my way to.,"[""Read"", ""me"", ""the"", ""text"", ""that"", ""starts"", ""with"", ""I'm"", ""on"", ""my"", ""way"", ""to"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", ""content"", 0]",Get_message_content
+230,Read the first message sent for me today,"[""Read"", ""the"", ""first"", ""message"", ""sent"", ""for"", ""me"", ""today""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+231,Show me the video message from yesterday.,"[""Show"", ""me"", ""the"", ""video"", ""message"", ""from"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+232,I want to hear my last audio message.,"[""I"", ""want"", ""to"", ""hear"", ""my"", ""last"", ""audio"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+233,Please let me see the messages I received with the tracking details for my upcoming package.,"[""Please"", ""let"", ""me"", ""see"", ""the"", ""messages"", ""I"", ""received"", ""with"", ""the"", ""tracking"", ""details"", ""for"", ""my"", ""upcoming"", ""package"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", 0]",Get_message_content
+234,Read all my saved audio messages from my mother-in-law.,"[""Read"", ""all"", ""my"", ""saved"", ""audio"", ""messages"", ""from"", ""my"", ""mother-in-law"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+235,Show me the last video message sent by Sam.,"[""Show"", ""me"", ""the"", ""last"", ""video"", ""message"", ""sent"", ""by"", ""Sam"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+236,Please get me my new messages.,"[""Please"", ""get"", ""me"", ""my"", ""new"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+237,Do I have any video messages today?,"[""Do"", ""I"", ""have"", ""any"", ""video"", ""messages"", ""today"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+238,Display the last four messages,"[""Display"", ""the"", ""last"", ""four"", ""messages""]","[0, 0, 0, 0, 0]",Get_message_content
+239,Let's view picture message from dad,"[""Let's"", ""view"", ""picture"", ""message"", ""from"", ""dad""]","[0, 0, 0, 0, 0, ""person""]",Get_message_content
+240,Show me the message about taking the dog to the vet.,"[""Show"", ""me"", ""the"", ""message"", ""about"", ""taking"", ""the"", ""dog"", ""to"", ""the"", ""vet"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+241,Show me the text from Sharon today.,"[""Show"", ""me"", ""the"", ""text"", ""from"", ""Sharon"", ""today"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+242,Show me my starred emails in Outlook now.,"[""Show"", ""me"", ""my"", ""starred"", ""emails"", ""in"", ""Outlook"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+243,Show me the last read text from dad.,"[""Show"", ""me"", ""the"", ""last"", ""read"", ""text"", ""from"", ""dad"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+244,Show me the unread emails from today.,"[""Show"", ""me"", ""the"", ""unread"", ""emails"", ""from"", ""today"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+245,Read me the unread text from mom,"[""Read"", ""me"", ""the"", ""unread"", ""text"", ""from"", ""mom""]","[0, 0, 0, 0, 0, 0, ""person""]",Get_message_content
+246,Read the first message sent today,"[""Read"", ""the"", ""first"", ""message"", ""sent"", ""today""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+247,Let me hear the message that Julie sent me.,"[""Let"", ""me"", ""hear"", ""the"", ""message"", ""that"", ""Julie"", ""sent"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+248,Please show the starred message.,"[""Please"", ""show"", ""the"", ""starred"", ""message"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+249,Read me all my messages about School,"[""Read"", ""me"", ""all"", ""my"", ""messages"", ""about"", ""School""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+250,Display all messages from Greg.,"[""Display"", ""all"", ""messages"", ""from"", ""Greg"", "".""]","[0, 0, 0, 0, ""person"", 0]",Get_message_content
+251,Please show the SMS messages.,"[""Please"", ""show"", ""the"", ""SMS"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+252,Show me any unread messages from yesterday.,"[""Show"", ""me"", ""any"", ""unread"", ""messages"", ""from"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+253,Read me the text from Heidi.,"[""Read"", ""me"", ""the"", ""text"", ""from"", ""Heidi"", "".""]","[0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+254,Let's see the email from Susan that was sent Wednesday.,"[""Let's"", ""see"", ""the"", ""email"", ""from"", ""Susan"", ""that"", ""was"", ""sent"", ""Wednesday"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+255,Get starred messages on Telegram.,"[""Get"", ""starred"", ""messages"", ""on"", ""Telegram"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+256,Please tell me what James said in his message,"[""Please"", ""tell"", ""me"", ""what"", ""James"", ""said"", ""in"", ""his"", ""message""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Get_message_content
+257,Get emails that are marked important in Google Mail.,"[""Get"", ""emails"", ""that"", ""are"", ""marked"", ""important"", ""in"", ""Google"", ""Mail"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+258,Show me the video message.,"[""Show"", ""me"", ""the"", ""video"", ""message"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+259,Get archived emails on gmail,"[""Get"", ""archived"", ""emails"", ""on"", ""gmail""]","[0, 0, 0, 0, 0]",Get_message_content
+260,What is in the latest message from my brother?,"[""What"", ""is"", ""in"", ""the"", ""latest"", ""message"", ""from"", ""my"", ""brother"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Get_message_content
+261,Kindly read all my messages to me,"[""Kindly"", ""read"", ""all"", ""my"", ""messages"", ""to"", ""me""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+262,Let's see my starred emails in Gmail.,"[""Let's"", ""see"", ""my"", ""starred"", ""emails"", ""in"", ""Gmail"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+263,Read last 2 messages from dad,"[""Read"", ""last"", ""2"", ""messages"", ""from"", ""dad""]","[0, 0, 0, 0, 0, ""person""]",Get_message_content
+264,Read me the last 3 texts from Jon.,"[""Read"", ""me"", ""the"", ""last"", ""3"", ""texts"", ""from"", ""Jon"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+265,What does the text message from Bill say?,"[""What"", ""does"", ""the"", ""text"", ""message"", ""from"", ""Bill"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+266,What does the text message from my brother say from last night?,"[""What"", ""does"", ""the"", ""text"", ""message"", ""from"", ""my"", ""brother"", ""say"", ""from"", ""last"", ""night"", ""?""]","[0, 0, 0, 0, 0, 0, ""person"", ""person"", 0, 0, 0, 0, 0]",Get_message_content
+267,Show me unread Telegram messages.,"[""Show"", ""me"", ""unread"", ""Telegram"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+268,Display unread Gmail messages.,"[""Display"", ""unread"", ""Gmail"", ""messages"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+269,Tell me what my Facebook message from Sydney says.,"[""Tell"", ""me"", ""what"", ""my"", ""Facebook"", ""message"", ""from"", ""Sydney"", ""says"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+270,Could you give me messages for last month?,"[""Could"", ""you"", ""give"", ""me"", ""messages"", ""for"", ""last"", ""month"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+271,I'd like to see the email with a PDF.,"[""I'd"", ""like"", ""to"", ""see"", ""the"", ""email"", ""with"", ""a"", ""PDF"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+272,What is in the voice message from Janey?,"[""What"", ""is"", ""in"", ""the"", ""voice"", ""message"", ""from"", ""Janey"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+273,Show me starred messages in Whatsapp,"[""Show"", ""me"", ""starred"", ""messages"", ""in"", ""Whatsapp""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+274,Show me the message content now.,"[""Show"", ""me"", ""the"", ""message"", ""content"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+275,What does the Facebook message from Jerome say?,"[""What"", ""does"", ""the"", ""Facebook"", ""message"", ""from"", ""Jerome"", ""say"", ""?""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+276,I want to see the first text from Lily.,"[""I"", ""want"", ""to"", ""see"", ""the"", ""first"", ""text"", ""from"", ""Lily"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+277,Please display emails with photo attachments in Gmail.,"[""Please"", ""display"", ""emails"", ""with"", ""photo"", ""attachments"", ""in"", ""Gmail"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+278,Bring up any messages about the trip to Vegas.,"[""Bring"", ""up"", ""any"", ""messages"", ""about"", ""the"", ""trip"", ""to"", ""Vegas"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+279,Please read me all of my unread text messages.,"[""Please"", ""read"", ""me"", ""all"", ""of"", ""my"", ""unread"", ""text"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+280,I want to see the email Bob gave me Thursday.,"[""I"", ""want"", ""to"", ""see"", ""the"", ""email"", ""Bob"", ""gave"", ""me"", ""Thursday"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Get_message_content
+281,Give me my new messages.,"[""Give"", ""me"", ""my"", ""new"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+282,Show me my unread Facebook messages from yesterday.,"[""Show"", ""me"", ""my"", ""unread"", ""Facebook"", ""messages"", ""from"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+283,Show me my starred emails in Gmail please.,"[""Show"", ""me"", ""my"", ""starred"", ""emails"", ""in"", ""Gmail"", ""please"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+284,I want to see the email Bob sent me.,"[""I"", ""want"", ""to"", ""see"", ""the"", ""email"", ""Bob"", ""sent"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+285,Get me the email with the content please rsvp.,"[""Get"", ""me"", ""the"", ""email"", ""with"", ""the"", ""content"", ""please"", ""rsvp"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", 0]",Get_message_content
+286,Read the last three emails from yesterday.,"[""Read"", ""the"", ""last"", ""three"", ""emails"", ""from"", ""yesterday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+287,I want to hear messages from my Mom this week.,"[""I"", ""want"", ""to"", ""hear"", ""messages"", ""from"", ""my"", ""Mom"", ""this"", ""week"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+288,read me the latest message from Ryan in whatsapp,"[""read"", ""me"", ""the"", ""latest"", ""message"", ""from"", ""Ryan"", ""in"", ""whatsapp""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+289,Give me messages for next week,"[""Give"", ""me"", ""messages"", ""for"", ""next"", ""week""]","[0, 0, 0, 0, 0, 0]",Get_message_content
+290,Tell me what the new email says.,"[""Tell"", ""me"", ""what"", ""the"", ""new"", ""email"", ""says"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+291,Display the messages from my doctor.,"[""Display"", ""the"", ""messages"", ""from"", ""my"", ""doctor"", "".""]","[0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+292,I want to see the starred message.,"[""I"", ""want"", ""to"", ""see"", ""the"", ""starred"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+293,Could you please read my message from Jack?,"[""Could"", ""you"", ""please"", ""read"", ""my"", ""message"", ""from"", ""Jack"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+294,Show me the messages from mom.,"[""Show"", ""me"", ""the"", ""messages"", ""from"", ""mom"", "".""]","[0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+295,I want to see unread WhatsApp messages.,"[""I"", ""want"", ""to"", ""see"", ""unread"", ""WhatsApp"", ""messages"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+296,What's in the Facebook message from Joshua?,"[""What's"", ""in"", ""the"", ""Facebook"", ""message"", ""from"", ""Joshua"", ""?""]","[0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+297,What's in the message from Tanna?,"[""What's"", ""in"", ""the"", ""message"", ""from"", ""Tanna"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+298,gather messages from last night,"[""gather"", ""messages"", ""from"", ""last"", ""night""]","[0, 0, 0, 0, 0]",Get_message_content
+299,Tell me what's in the message I got from Katie.,"[""Tell"", ""me"", ""what's"", ""in"", ""the"", ""message"", ""I"", ""got"", ""from"", ""Katie"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+300,Read me my audio messages from today.,"[""Read"", ""me"", ""my"", ""audio"", ""messages"", ""from"", ""today"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+301,I need you to display all the messages from August 1st.,"[""I"", ""need"", ""you"", ""to"", ""display"", ""all"", ""the"", ""messages"", ""from"", ""August"", ""1st"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+302,Show me messages about 2022 vacation.,"[""Show"", ""me"", ""messages"", ""about"", ""2022"", ""vacation"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+303,Get me the Snapchat message that was sent from Jonas.,"[""Get"", ""me"", ""the"", ""Snapchat"", ""message"", ""that"", ""was"", ""sent"", ""from"", ""Jonas"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+304,What did Jeremy say in this email?,"[""What"", ""did"", ""Jeremy"", ""say"", ""in"", ""this"", ""email"", ""?""]","[0, 0, ""person"", 0, 0, 0, 0, 0]",Get_message_content
+305,Display my audio messages.,"[""Display"", ""my"", ""audio"", ""messages"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+306,Show me any starred messages from last week.,"[""Show"", ""me"", ""any"", ""starred"", ""messages"", ""from"", ""last"", ""week"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+307,Get me today's texts.,"[""Get"", ""me"", ""today's"", ""texts"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+308,What time was the email sent by Scott?,"[""What"", ""time"", ""was"", ""the"", ""email"", ""sent"", ""by"", ""Scott"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+309,I would like to hear the audio message from Michael.,"[""I"", ""would"", ""like"", ""to"", ""hear"", ""the"", ""audio"", ""message"", ""from"", ""Michael"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+310,What does the email from Emily say?,"[""What"", ""does"", ""the"", ""email"", ""from"", ""Emily"", ""say"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+311,I'd like to hear the text message from John.,"[""I'd"", ""like"", ""to"", ""hear"", ""the"", ""text"", ""message"", ""from"", ""John"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+312,Show the email Bob sent me.,"[""Show"", ""the"", ""email"", ""Bob"", ""sent"", ""me"", "".""]","[0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+313,I'd like to know what Candi said in her text message.,"[""I'd"", ""like"", ""to"", ""know"", ""what"", ""Candi"", ""said"", ""in"", ""her"", ""text"", ""message"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0]",Get_message_content
+314,What did Sally say in her message on Text Now?,"[""What"", ""did"", ""Sally"", ""say"", ""in"", ""her"", ""message"", ""on"", ""Text"", ""Now"", ""?""]","[0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+315,Show me the last 2 unread Gmail messages from Dad.,"[""Show"", ""me"", ""the"", ""last"", ""2"", ""unread"", ""Gmail"", ""messages"", ""from"", ""Dad"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Get_message_content
+316,Could you display my text messages that Debbie sent me?,"[""Could"", ""you"", ""display"", ""my"", ""text"", ""messages"", ""that"", ""Debbie"", ""sent"", ""me"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Get_message_content
+317,Display all emails with photo and Pdf attachments,"[""Display"", ""all"", ""emails"", ""with"", ""photo"", ""and"", ""Pdf"", ""attachments""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+318,Can you read out the email from Greg Romo?,"[""Can"", ""you"", ""read"", ""out"", ""the"", ""email"", ""from"", ""Greg"", ""Romo"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Get_message_content
+319,Read my text mesaages.,"[""Read"", ""my"", ""text"", ""mesaages"", "".""]","[0, 0, 0, 0, 0]",Get_message_content
+320,Please show me messages for Monday.,"[""Please"", ""show"", ""me"", ""messages"", ""for"", ""Monday"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Get_message_content
+321,Show me the email from the school Principal.,"[""Show"", ""me"", ""the"", ""email"", ""from"", ""the"", ""school"", ""Principal"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Get_message_content
+322,What did my text from Scott say?,"[""What"", ""did"", ""my"", ""text"", ""from"", ""Scott"", ""say"", ""?""]","[0, 0, 0, 0, 0, ""person"", 0, 0]",Get_message_content
+323,Can you display my messages for the month?,"[""Can"", ""you"", ""display"", ""my"", ""messages"", ""for"", ""the"", ""month"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+324,Show emails that are starred in Outlook.,"[""Show"", ""emails"", ""that"", ""are"", ""starred"", ""in"", ""Outlook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Get_message_content
+325,Make a shared note on my iphone.,"[""Make"", ""a"", ""shared"", ""note"", ""on"", ""my"", ""iphone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+326,Write down a personal note.,"[""Write"", ""down"", ""a"", ""personal"", ""note"", "".""]","[0, 0, 0, 0, 0, 0]",Create_note
+327,Let's make a new note for Jack.,"[""Let's"", ""make"", ""a"", ""new"", ""note"", ""for"", ""Jack"", "".""]","[0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+328,Start a personal note on Outlook.,"[""Start"", ""a"", ""personal"", ""note"", ""on"", ""Outlook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+329,Write a note on my tablet for Kim saying tomorrow is good.,"[""Write"", ""a"", ""note"", ""on"", ""my"", ""tablet"", ""for"", ""Kim"", ""saying"", ""tomorrow"", ""is"", ""good"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, ""content"", ""content"", ""content"", 0]",Create_note
+330,Please create a memo for James with a reminder at 12 P.M.,"[""Please"", ""create"", ""a"", ""memo"", ""for"", ""James"", ""with"", ""a"", ""reminder"", ""at"", ""12"", ""P.M"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0]",Create_note
+331,Please make a 5PM reminder note.,"[""Please"", ""make"", ""a"", ""5PM"", ""reminder"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+332,On my Iphone please make a note for 8am.,"[""On"", ""my"", ""Iphone"", ""please"", ""make"", ""a"", ""note"", ""for"", ""8am"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+333,Can you add a new note to my iPhone?,"[""Can"", ""you"", ""add"", ""a"", ""new"", ""note"", ""to"", ""my"", ""iPhone"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+334,Make a reminder note to pick up dry cleaning.,"[""Make"", ""a"", ""reminder"", ""note"", ""to"", ""pick"", ""up"", ""dry"", ""cleaning"", "".""]","[0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+335,Will you create a reminder note for Zack?,"[""Will"", ""you"", ""create"", ""a"", ""reminder"", ""note"", ""for"", ""Zack"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+336,Let's make a shopping note.,"[""Let's"", ""make"", ""a"", ""shopping"", ""note"", "".""]","[0, 0, 0, 0, 0, 0]",Create_note
+337,Make a note for the family.,"[""Make"", ""a"", ""note"", ""for"", ""the"", ""family"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+338,Write a memo on my iPhone to go off at 6pm.,"[""Write"", ""a"", ""memo"", ""on"", ""my"", ""iPhone"", ""to"", ""go"", ""off"", ""at"", ""6pm"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+339,Start a memo.,"[""Start"", ""a"", ""memo"", "".""]","[0, 0, 0, 0]",Create_note
+340,Please create a Post-It note on my iPhone.,"[""Please"", ""create"", ""a"", ""Post-It"", ""note"", ""on"", ""my"", ""iPhone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+341,A family note needs to be created and set to go off at 3 pm.,"[""A"", ""family"", ""note"", ""needs"", ""to"", ""be"", ""created"", ""and"", ""set"", ""to"", ""go"", ""off"", ""at"", ""3"", ""pm"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+342,Create a note for James on my iPhone,"[""Create"", ""a"", ""note"", ""for"", ""James"", ""on"", ""my"", ""iPhone""]","[0, 0, 0, 0, ""person"", 0, 0, 0]",Create_note
+343,I need to jot down a new note.,"[""I"", ""need"", ""to"", ""jot"", ""down"", ""a"", ""new"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+344,Please leave John a memo.,"[""Please"", ""leave"", ""John"", ""a"", ""memo"", "".""]","[0, 0, ""person"", 0, 0, 0]",Create_note
+345,Make a note for Mom on my iPhone.,"[""Make"", ""a"", ""note"", ""for"", ""Mom"", ""on"", ""my"", ""iPhone"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Create_note
+346,Make a note for Jane on my laptop,"[""Make"", ""a"", ""note"", ""for"", ""Jane"", ""on"", ""my"", ""laptop""]","[0, 0, 0, 0, ""person"", 0, 0, 0]",Create_note
+347,Please create a 4 pm personal note.,"[""Please"", ""create"", ""a"", ""4"", ""pm"", ""personal"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+348,Start a memo to Jack on my tablet.,"[""Start"", ""a"", ""memo"", ""to"", ""Jack"", ""on"", ""my"", ""tablet"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Create_note
+349,Can you create a household note for Corey?,"[""Can"", ""you"", ""create"", ""a"", ""household"", ""note"", ""for"", ""Corey"", ""?""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+350,Create a note on my computer to go off at 8 am tomorrow.,"[""Create"", ""a"", ""note"", ""on"", ""my"", ""computer"", ""to"", ""go"", ""off"", ""at"", ""8"", ""am"", ""tomorrow"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+351,I want to create a personal post-it note.,"[""I"", ""want"", ""to"", ""create"", ""a"", ""personal"", ""post-it"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+352,Kindly start a household note for Ariana,"[""Kindly"", ""start"", ""a"", ""household"", ""note"", ""for"", ""Ariana""]","[0, 0, 0, 0, 0, 0, ""person""]",Create_note
+353,Jot down a new note.,"[""Jot"", ""down"", ""a"", ""new"", ""note"", "".""]","[0, 0, 0, 0, 0, 0]",Create_note
+354,Create a note to Jack on my tablet.,"[""Create"", ""a"", ""note"", ""to"", ""Jack"", ""on"", ""my"", ""tablet"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Create_note
+355,Can I make a note on my Samsung?,"[""Can"", ""I"", ""make"", ""a"", ""note"", ""on"", ""my"", ""Samsung"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+356,I need to make a note named shopping list.,"[""I"", ""need"", ""to"", ""make"", ""a"", ""note"", ""named"", ""shopping"", ""list"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+357,Write a note to Booche tomorrow saying I still love you.,"[""Write"", ""a"", ""note"", ""to"", ""Booche"", ""tomorrow"", ""saying"", ""I"", ""still"", ""love"", ""you"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+358,Write a note to Greg saying thank you.,"[""Write"", ""a"", ""note"", ""to"", ""Greg"", ""saying"", ""thank"", ""you"", "".""]","[0, 0, 0, 0, ""person"", 0, ""content"", ""content"", 0]",Create_note
+359,Don't Forget to write a note to Linda saying don't forget to pick up groceries.,"[""Don't"", ""Forget"", ""to"", ""write"", ""a"", ""note"", ""to"", ""Linda"", ""saying"", ""don't"", ""forget"", ""to"", ""pick"", ""up"", ""groceries"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+360,Write a note on my iphone to alert me at 2 PM.,"[""Write"", ""a"", ""note"", ""on"", ""my"", ""iphone"", ""to"", ""alert"", ""me"", ""at"", ""2"", ""PM"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+361,Please make a new note on my phone.,"[""Please"", ""make"", ""a"", ""new"", ""note"", ""on"", ""my"", ""phone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+362,I want to create a graduation sticky note.,"[""I"", ""want"", ""to"", ""create"", ""a"", ""graduation"", ""sticky"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+363,I want to create a new note.,"[""I"", ""want"", ""to"", ""create"", ""a"", ""new"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+364,Write a note on my iphone to go off at 6 am.,"[""Write"", ""a"", ""note"", ""on"", ""my"", ""iphone"", ""to"", ""go"", ""off"", ""at"", ""6"", ""am"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+365,Make a note and share it with the family.,"[""Make"", ""a"", ""note"", ""and"", ""share"", ""it"", ""with"", ""the"", ""family"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+366,Can we start a new note?,"[""Can"", ""we"", ""start"", ""a"", ""new"", ""note"", ""?""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+367,Please create a sticky note on my iPad,"[""Please"", ""create"", ""a"", ""sticky"", ""note"", ""on"", ""my"", ""iPad""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+368,I want to have a note left for Sara.,"[""I"", ""want"", ""to"", ""have"", ""a"", ""note"", ""left"", ""for"", ""Sara"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+369,I need to create a shared note called This Week's Menus.,"[""I"", ""need"", ""to"", ""create"", ""a"", ""shared"", ""note"", ""called"", ""This"", ""Week's"", ""Menus"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+370,Will you create a post-it note on my iPad?,"[""Will"", ""you"", ""create"", ""a"", ""post-it"", ""note"", ""on"", ""my"", ""iPad"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+371,Start a personal note for Jack on my tablet.,"[""Start"", ""a"", ""personal"", ""note"", ""for"", ""Jack"", ""on"", ""my"", ""tablet"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Create_note
+372,I need a note created on my iPad.,"[""I"", ""need"", ""a"", ""note"", ""created"", ""on"", ""my"", ""iPad"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+373,Write a shared memo for accounting office,"[""Write"", ""a"", ""shared"", ""memo"", ""for"", ""accounting"", ""office""]","[0, 0, 0, 0, 0, ""person"", ""person""]",Create_note
+374,Create a shared note for tomorrow,"[""Create"", ""a"", ""shared"", ""note"", ""for"", ""tomorrow""]","[0, 0, 0, 0, 0, 0]",Create_note
+375,Draft a shared memo with a reminder.,"[""Draft"", ""a"", ""shared"", ""memo"", ""with"", ""a"", ""reminder"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+376,Write a note for tomorrow.,"[""Write"", ""a"", ""note"", ""for"", ""tomorrow"", "".""]","[0, 0, 0, 0, 0, 0]",Create_note
+377,Produce note now.,"[""Produce"", ""note"", ""now"", "".""]","[0, 0, 0, 0]",Create_note
+378,Create a shared note to go off at 9 am.,"[""Create"", ""a"", ""shared"", ""note"", ""to"", ""go"", ""off"", ""at"", ""9"", ""am"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+379,New note for Taylor.,"[""New"", ""note"", ""for"", ""Taylor"", "".""]","[0, 0, 0, ""person"", 0]",Create_note
+380,Make a new note on my phone.,"[""Make"", ""a"", ""new"", ""note"", ""on"", ""my"", ""phone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+381,Let's create a shared note labeled Vacation Ideas.,"[""Let's"", ""create"", ""a"", ""shared"", ""note"", ""labeled"", ""Vacation"", ""Ideas"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+382,Let's write a note to Tom telling him to come for dinner tonight.,"[""Let's"", ""write"", ""a"", ""note"", ""to"", ""Tom"", ""telling"", ""him"", ""to"", ""come"", ""for"", ""dinner"", ""tonight"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0, ""content"", ""content"", ""content"", 0, 0]",Create_note
+383,Please create a note for my husband that says I love you.,"[""Please"", ""create"", ""a"", ""note"", ""for"", ""my"", ""husband"", ""that"", ""says"", ""I"", ""love"", ""you"", "".""]","[0, 0, 0, 0, 0, ""person"", ""person"", 0, 0, ""content"", ""content"", ""content"", 0]",Create_note
+384,Write a note that says 'pick up Aaron from school'.,"[""Write"", ""a"", ""note"", ""that"", ""says"", ""'"", ""pick"", ""up"", ""Aaron"", ""from"", ""school"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", ""content"", 0, 0]",Create_note
+385,Make a note titled new recipes to try.,"[""Make"", ""a"", ""note"", ""titled"", ""new"", ""recipes"", ""to"", ""try"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+386,Start writing a note for Dad on his macbook,"[""Start"", ""writing"", ""a"", ""note"", ""for"", ""Dad"", ""on"", ""his"", ""macbook""]","[0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Create_note
+387,Can you please create a family memo?,"[""Can"", ""you"", ""please"", ""create"", ""a"", ""family"", ""memo"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+388,Generate note.,"[""Generate"", ""note"", "".""]","[0, 0, 0]",Create_note
+389,Can you make a household note for tomorrow?,"[""Can"", ""you"", ""make"", ""a"", ""household"", ""note"", ""for"", ""tomorrow"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+390,Use OneNote and make a new note for Courtney called Vegas Trip.,"[""Use"", ""OneNote"", ""and"", ""make"", ""a"", ""new"", ""note"", ""for"", ""Courtney"", ""called"", ""Vegas"", ""Trip"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Create_note
+391,Kindly write a shared reminder memo on my computer,"[""Kindly"", ""write"", ""a"", ""shared"", ""reminder"", ""memo"", ""on"", ""my"", ""computer""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+392,Please make a new note to send to Adam at 5 pm to take out trash.,"[""Please"", ""make"", ""a"", ""new"", ""note"", ""to"", ""send"", ""to"", ""Adam"", ""at"", ""5"", ""pm"", ""to"", ""take"", ""out"", ""trash"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, ""content"", ""content"", ""content"", 0]",Create_note
+393,Create a shared note in Evernote.,"[""Create"", ""a"", ""shared"", ""note"", ""in"", ""Evernote"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+394,"write a memo for Jaelon saying come home soon, your brother misses you","[""write"", ""a"", ""memo"", ""for"", ""Jaelon"", ""saying"", ""come"", ""home"", ""soon,"", ""your"", ""brother"", ""misses"", ""you""]","[0, 0, 0, 0, ""person"", 0, ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+395,Create a shared note and call it weekend assignment.,"[""Create"", ""a"", ""shared"", ""note"", ""and"", ""call"", ""it"", ""weekend"", ""assignment"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+396,Use the iPad to make a note for my boss.,"[""Use"", ""the"", ""iPad"", ""to"", ""make"", ""a"", ""note"", ""for"", ""my"", ""boss"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", ""person"", 0]",Create_note
+397,Draft a personal memo for later.,"[""Draft"", ""a"", ""personal"", ""memo"", ""for"", ""later"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+398,Create a note on my laptop.,"[""Create"", ""a"", ""note"", ""on"", ""my"", ""laptop"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+399,Create a shared sticky for Saturday.,"[""Create"", ""a"", ""shared"", ""sticky"", ""for"", ""Saturday"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+400,Create a note for Doug on his phone.,"[""Create"", ""a"", ""note"", ""for"", ""Doug"", ""on"", ""his"", ""phone"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Create_note
+401,on my iphone create a post-it note,"[""on"", ""my"", ""iphone"", ""create"", ""a"", ""post-it"", ""note""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+402,Write a note to Mike saying pick up lunch for our meeting.,"[""Write"", ""a"", ""note"", ""to"", ""Mike"", ""saying"", ""pick"", ""up"", ""lunch"", ""for"", ""our"", ""meeting"", "".""]","[0, 0, 0, 0, ""person"", 0, ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+403,Write a personal note for me to make my nail appointment.,"[""Write"", ""a"", ""personal"", ""note"", ""for"", ""me"", ""to"", ""make"", ""my"", ""nail"", ""appointment"", "".""]","[0, 0, 0, 0, 0, ""person"", 0, ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+404,I want to make a post on Facebook.,"[""I"", ""want"", ""to"", ""make"", ""a"", ""post"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+405,Post on Facebook 'I hope everyone is having a wonderful day' now.,"[""Post"", ""on"", ""Facebook"", ""'"", ""I"", ""hope"", ""everyone"", ""is"", ""having"", ""a"", ""wonderful"", ""day"", ""'"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+406,Update Facebook status with Have a great day.,"[""Update"", ""Facebook"", ""status"", ""with"", ""Have"", ""a"", ""great"", ""day"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+407,Post a message about the family on Facebook.,"[""Post"", ""a"", ""message"", ""about"", ""the"", ""family"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+408,Post on Instagram what a nice day,"[""Post"", ""on"", ""Instagram"", ""what"", ""a"", ""nice"", ""day""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+409,Make an Instagram post.,"[""Make"", ""an"", ""Instagram"", ""post"", "".""]","[0, 0, 0, 0, 0]",Post_message
+410,make a post on Instagram,"[""make"", ""a"", ""post"", ""on"", ""Instagram""]","[0, 0, 0, 0, 0]",Post_message
+411,Tweet have a happy Friday.,"[""Tweet"", ""have"", ""a"", ""happy"", ""Friday"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+412,Post 'I'm having an OK day!' on Twitter,"[""Post"", ""'"", ""I'm"", ""having"", ""an"", ""OK"", ""day"", ""!"", ""'"", ""on"", ""Twitter""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+413,Let's update my Facebook status right now.,"[""Let's"", ""update"", ""my"", ""Facebook"", ""status"", ""right"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+414,Use Facebook to post my current status.,"[""Use"", ""Facebook"", ""to"", ""post"", ""my"", ""current"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+415,Make an Instagram post,"[""Make"", ""an"", ""Instagram"", ""post""]","[0, 0, 0, 0]",Post_message
+416,Post on Facebook 'I bought a new purse'.,"[""Post"", ""on"", ""Facebook"", ""'"", ""I"", ""bought"", ""a"", ""new"", ""purse"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+417,I would like to post on Facebook asking if anyone can dog sit.,"[""I"", ""would"", ""like"", ""to"", ""post"", ""on"", ""Facebook"", ""asking"", ""if"", ""anyone"", ""can"", ""dog"", ""sit"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+418,Tweet I reached my goal!,"[""Tweet"", ""I"", ""reached"", ""my"", ""goal"", ""!""]","[0, 0, 0, 0, 0, 0]",Post_message
+419,Post a new post on Facebook that I got a new car.,"[""Post"", ""a"", ""new"", ""post"", ""on"", ""Facebook"", ""that"", ""I"", ""got"", ""a"", ""new"", ""car"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+420,Post on Instagram Meet me on Friday at the same spot as always.,"[""Post"", ""on"", ""Instagram"", ""Meet"", ""me"", ""on"", ""Friday"", ""at"", ""the"", ""same"", ""spot"", ""as"", ""always"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+421,Update Instagram status with what a great trip!,"[""Update"", ""Instagram"", ""status"", ""with"", ""what"", ""a"", ""great"", ""trip"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+422,"Create a new Facebook post that says Vacation starts soon, pics to follow!","[""Create"", ""a"", ""new"", ""Facebook"", ""post"", ""that"", ""says"", ""Vacation"", ""starts"", ""soon,"", ""pics"", ""to"", ""follow"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+423,Please put that on Facebook for me.,"[""Please"", ""put"", ""that"", ""on"", ""Facebook"", ""for"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+424,Post an update on Facebook.,"[""Post"", ""an"", ""update"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+425,post I have a great day to Facebook,"[""post"", ""I"", ""have"", ""a"", ""great"", ""day"", ""to"", ""Facebook""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+426,Please Tweet I've arrived! right now.,"[""Please"", ""Tweet"", ""I've"", ""arrived"", ""!"", ""right"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+427,I'd like to update my Linkedin status now.,"[""I'd"", ""like"", ""to"", ""update"", ""my"", ""Linkedin"", ""status"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+428,Change my status on Linkedin.,"[""Change"", ""my"", ""status"", ""on"", ""Linkedin"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+429,Create a new post for Facebook that says Yes it is unusually warm today.,"[""Create"", ""a"", ""new"", ""post"", ""for"", ""Facebook"", ""that"", ""says"", ""Yes"", ""it"", ""is"", ""unusually"", ""warm"", ""today"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+430,Tweet photo of a building,"[""Tweet"", ""photo"", ""of"", ""a"", ""building""]","[0, 0, 0, 0, 0]",Post_message
+431,Post a new message on Instagram,"[""Post"", ""a"", ""new"", ""message"", ""on"", ""Instagram""]","[0, 0, 0, 0, 0, 0]",Post_message
+432,I need to post on Twitter.,"[""I"", ""need"", ""to"", ""post"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+433,Post at the movies on my Facebook.,"[""Post"", ""at"", ""the"", ""movies"", ""on"", ""my"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+434,My FB status should be changed to available.,"[""My"", ""FB"", ""status"", ""should"", ""be"", ""changed"", ""to"", ""available"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+435,I want to tweet on Twitter.,"[""I"", ""want"", ""to"", ""tweet"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+436,Tweet the final score of the game.,"[""Tweet"", ""the"", ""final"", ""score"", ""of"", ""the"", ""game"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+437,Create a new whatsapp status,"[""Create"", ""a"", ""new"", ""whatsapp"", ""status""]","[0, 0, 0, 0, 0]",Post_message
+438,Update my profile picture on Facebook.,"[""Update"", ""my"", ""profile"", ""picture"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+439,Write a tweet on my feed.,"[""Write"", ""a"", ""tweet"", ""on"", ""my"", ""feed"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+440,Update my Facebook status saying we finally are traveling again!,"[""Update"", ""my"", ""Facebook"", ""status"", ""saying"", ""we"", ""finally"", ""are"", ""traveling"", ""again"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+441,Post surgery went well on Facebook.,"[""Post"", ""surgery"", ""went"", ""well"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+442,let's make a twitter post,"[""let's"", ""make"", ""a"", ""twitter"", ""post""]","[0, 0, 0, 0, 0]",Post_message
+443,Post got a new job on LinkedIn.,"[""Post"", ""got"", ""a"", ""new"", ""job"", ""on"", ""LinkedIn"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+444,Post to LinkedIn check out this article on the impact of regulation on the oil and gas industry.,"[""Post"", ""to"", ""LinkedIn"", ""check"", ""out"", ""this"", ""article"", ""on"", ""the"", ""impact"", ""of"", ""regulation"", ""on"", ""the"", ""oil"", ""and"", ""gas"", ""industry"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+445,"Post, Chicago here we come!","[""Post,"", ""Chicago"", ""here"", ""we"", ""come"", ""!""]","[0, 0, 0, 0, 0, 0]",Post_message
+446,Tweet @ John the Result is out,"[""Tweet"", ""@"", ""John"", ""the"", ""Result"", ""is"", ""out""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+447,Update Facebook status Good night every one,"[""Update"", ""Facebook"", ""status"", ""Good"", ""night"", ""every"", ""one""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+448,Tweet Tesla for life!,"[""Tweet"", ""Tesla"", ""for"", ""life"", ""!""]","[0, 0, 0, 0, 0]",Post_message
+449,Post a new status update to Twitter,"[""Post"", ""a"", ""new"", ""status"", ""update"", ""to"", ""Twitter""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+450,Post 'I'm having the best day today'.,"[""Post"", ""'"", ""I'm"", ""having"", ""the"", ""best"", ""day"", ""today"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+451,Post a new message onto my facebook account.,"[""Post"", ""a"", ""new"", ""message"", ""onto"", ""my"", ""facebook"", ""account"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+452,make a new twitter post,"[""make"", ""a"", ""new"", ""twitter"", ""post""]","[0, 0, 0, 0, 0]",Post_message
+453,I want to post life is good.,"[""I"", ""want"", ""to"", ""post"", ""life"", ""is"", ""good"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+454,I want to go on Facebook and update my status.,"[""I"", ""want"", ""to"", ""go"", ""on"", ""Facebook"", ""and"", ""update"", ""my"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+455,Tweet 'Check out my new business'.,"[""Tweet"", ""'"", ""Check"", ""out"", ""my"", ""new"", ""business"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+456,Post a message about my new book on Facebook.,"[""Post"", ""a"", ""message"", ""about"", ""my"", ""new"", ""book"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+457,Post a status update on Facebook.,"[""Post"", ""a"", ""status"", ""update"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+458,"Help me tweet this message, We lost but we are still victorious!","[""Help"", ""me"", ""tweet"", ""this"", ""message,"", ""We"", ""lost"", ""but"", ""we"", ""are"", ""still"", ""victorious"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+459,Can you start a post for Twitter?,"[""Can"", ""you"", ""start"", ""a"", ""post"", ""for"", ""Twitter"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+460,Post an update on Twitter.,"[""Post"", ""an"", ""update"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+461,Tweet did you see Rafa's last match?,"[""Tweet"", ""did"", ""you"", ""see"", ""Rafa's"", ""last"", ""match"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+462,Post a status update on Twitter.,"[""Post"", ""a"", ""status"", ""update"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+463,On Facebook post 'I got a new house'.,"[""On"", ""Facebook"", ""post"", ""'"", ""I"", ""got"", ""a"", ""new"", ""house"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+464,Post a new post on Facebook that my team won the game.,"[""Post"", ""a"", ""new"", ""post"", ""on"", ""Facebook"", ""that"", ""my"", ""team"", ""won"", ""the"", ""game"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+465,I need to write a post on my Facebook.,"[""I"", ""need"", ""to"", ""write"", ""a"", ""post"", ""on"", ""my"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+466,Tweet Wow how exciting,"[""Tweet"", ""Wow"", ""how"", ""exciting""]","[0, 0, 0, 0]",Post_message
+467,Update Facebook with you won,"[""Update"", ""Facebook"", ""with"", ""you"", ""won""]","[0, 0, 0, 0, 0]",Post_message
+468,I want to post on Facebook.,"[""I"", ""want"", ""to"", ""post"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+469,Post a message on facebook.,"[""Post"", ""a"", ""message"", ""on"", ""facebook"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+470,Facebook post telling I got a promotion.,"[""Facebook"", ""post"", ""telling"", ""I"", ""got"", ""a"", ""promotion"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+471,Make a tweet for me.,"[""Make"", ""a"", ""tweet"", ""for"", ""me"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+472,I want to make a reddit post.,"[""I"", ""want"", ""to"", ""make"", ""a"", ""reddit"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+473,Tweet I am having a great day,"[""Tweet"", ""I"", ""am"", ""having"", ""a"", ""great"", ""day""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+474,Update my Facebook status now.,"[""Update"", ""my"", ""Facebook"", ""status"", ""now"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+475,Post that on Instagram.,"[""Post"", ""that"", ""on"", ""Instagram"", "".""]","[0, 0, 0, 0, 0]",Post_message
+476,post on instagram,"[""post"", ""on"", ""instagram""]","[0, 0, 0]",Post_message
+477,Update my facebook status please.,"[""Update"", ""my"", ""facebook"", ""status"", ""please"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+478,Post Linkedin post saying stock markets are going up.,"[""Post"", ""Linkedin"", ""post"", ""saying"", ""stock"", ""markets"", ""are"", ""going"", ""up"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+479,Just go to Twitter and post that.,"[""Just"", ""go"", ""to"", ""Twitter"", ""and"", ""post"", ""that"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+480,Update Twitter with my most recent status.,"[""Update"", ""Twitter"", ""with"", ""my"", ""most"", ""recent"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+481,Tweet Happy Birthday @ Kelly.,"[""Tweet"", ""Happy"", ""Birthday"", ""@"", ""Kelly"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+482,Update Instagram with we won,"[""Update"", ""Instagram"", ""with"", ""we"", ""won""]","[0, 0, 0, 0, 0]",Post_message
+483,Update my facebook status to say finally school is back in killeen,"[""Update"", ""my"", ""facebook"", ""status"", ""to"", ""say"", ""finally"", ""school"", ""is"", ""back"", ""in"", ""killeen""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+484,Post that status update for me please.,"[""Post"", ""that"", ""status"", ""update"", ""for"", ""me"", ""please"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+485,Update Facebook with 'I'm bored' for me.,"[""Update"", ""Facebook"", ""with"", ""'"", ""I'm"", ""bored"", ""'"", ""for"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+486,Help me post an update.,"[""Help"", ""me"", ""post"", ""an"", ""update"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+487,Update Facebook Status Going out to dinner tonight.,"[""Update"", ""Facebook"", ""Status"", ""Going"", ""out"", ""to"", ""dinner"", ""tonight"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+488,Post a TikTok status update.,"[""Post"", ""a"", ""TikTok"", ""status"", ""update"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+489,Post on facebook that I opened a T-shirt business.,"[""Post"", ""on"", ""facebook"", ""that"", ""I"", ""opened"", ""a"", ""T-shirt"", ""business"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+490,I'd like to update my TikTok status.,"[""I'd"", ""like"", ""to"", ""update"", ""my"", ""TikTok"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+491,Post on Twitter You guys suck!!,"[""Post"", ""on"", ""Twitter"", ""You"", ""guys"", ""suck"", ""!"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+492,Update my Twitter status now.,"[""Update"", ""my"", ""Twitter"", ""status"", ""now"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+493,Post the birthday party photos on Facebook,"[""Post"", ""the"", ""birthday"", ""party"", ""photos"", ""on"", ""Facebook""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+494,I want to update my marital status on Facebook.,"[""I"", ""want"", ""to"", ""update"", ""my"", ""marital"", ""status"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+495,Post a MySpace message update with my location.,"[""Post"", ""a"", ""MySpace"", ""message"", ""update"", ""with"", ""my"", ""location"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+496,create a new tweet saying Paul for MVP,"[""create"", ""a"", ""new"", ""tweet"", ""saying"", ""Paul"", ""for"", ""MVP""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+497,Please post to my Facebook that I am looking for a new job.,"[""Please"", ""post"", ""to"", ""my"", ""Facebook"", ""that"", ""I"", ""am"", ""looking"", ""for"", ""a"", ""new"", ""job"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+498,Post on Facebook 'I hope everyone is having a wonderful day' please.,"[""Post"", ""on"", ""Facebook"", ""'"", ""I"", ""hope"", ""everyone"", ""is"", ""having"", ""a"", ""wonderful"", ""day"", ""'"", ""please"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+499,"Post to Slack in the project channel, Happy Monday!","[""Post"", ""to"", ""Slack"", ""in"", ""the"", ""project"", ""channel,"", ""Happy"", ""Monday"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+500,Use Instagram to post text message.,"[""Use"", ""Instagram"", ""to"", ""post"", ""text"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+501,Create a new post on Instagram saying fun filled day,"[""Create"", ""a"", ""new"", ""post"", ""on"", ""Instagram"", ""saying"", ""fun"", ""filled"", ""day""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+502,Post a new post on Facebook that I bought a house.,"[""Post"", ""a"", ""new"", ""post"", ""on"", ""Facebook"", ""that"", ""I"", ""bought"", ""a"", ""house"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+503,Update my zoom status,"[""Update"", ""my"", ""zoom"", ""status""]","[0, 0, 0, 0]",Post_message
+504,Tweet Keep cats cool,"[""Tweet"", ""Keep"", ""cats"", ""cool""]","[0, 0, 0, 0]",Post_message
+505,Post 'I'm getting a new car' to Facebook.,"[""Post"", ""'"", ""I'm"", ""getting"", ""a"", ""new"", ""car"", ""'"", ""to"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+506,make a facebook post right now,"[""make"", ""a"", ""facebook"", ""post"", ""right"", ""now""]","[0, 0, 0, 0, 0, 0]",Post_message
+507,Make a post on twitter,"[""Make"", ""a"", ""post"", ""on"", ""twitter""]","[0, 0, 0, 0, 0]",Post_message
+508,Update my facebook status to say on vacation in Florida,"[""Update"", ""my"", ""facebook"", ""status"", ""to"", ""say"", ""on"", ""vacation"", ""in"", ""Florida""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+509,Post a tweet.,"[""Post"", ""a"", ""tweet"", "".""]","[0, 0, 0, 0]",Post_message
+510,Can I make a post to Twitter?,"[""Can"", ""I"", ""make"", ""a"", ""post"", ""to"", ""Twitter"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+511,Update my Whatsapp status with we're back in Town,"[""Update"", ""my"", ""Whatsapp"", ""status"", ""with"", ""we're"", ""back"", ""in"", ""Town""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+512,I want to write a new post on my Instagram,"[""I"", ""want"", ""to"", ""write"", ""a"", ""new"", ""post"", ""on"", ""my"", ""Instagram""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+513,Can you make a post on Twitter that reads You have to be taught to hate.,"[""Can"", ""you"", ""make"", ""a"", ""post"", ""on"", ""Twitter"", ""that"", ""reads"", ""You"", ""have"", ""to"", ""be"", ""taught"", ""to"", ""hate"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+514,Update my status to available on Facebook,"[""Update"", ""my"", ""status"", ""to"", ""available"", ""on"", ""Facebook""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+515,Start a new post on Instagram.,"[""Start"", ""a"", ""new"", ""post"", ""on"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+516,Tweet about my vacation,"[""Tweet"", ""about"", ""my"", ""vacation""]","[0, 0, 0, 0]",Post_message
+517,Post on Facebook that I'm going traveling.,"[""Post"", ""on"", ""Facebook"", ""that"", ""I'm"", ""going"", ""traveling"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+518,Post having a blast on Facebook.,"[""Post"", ""having"", ""a"", ""blast"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+519,I would like to update the status on my Facebook page.,"[""I"", ""would"", ""like"", ""to"", ""update"", ""the"", ""status"", ""on"", ""my"", ""Facebook"", ""page"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+520,Use Facebook to make a post.,"[""Use"", ""Facebook"", ""to"", ""make"", ""a"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+521,Post a message on Twitter saying '@elonmusk Wow the new model is looking good!',"[""Post"", ""a"", ""message"", ""on"", ""Twitter"", ""saying"", ""'"", ""@elonmusk"", ""Wow"", ""the"", ""new"", ""model"", ""is"", ""looking"", ""good"", ""!"", ""'""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+522,Let's make a tweet about the best deodorant brands,"[""Let's"", ""make"", ""a"", ""tweet"", ""about"", ""the"", ""best"", ""deodorant"", ""brands""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+523,Tweet my hair salon's info.,"[""Tweet"", ""my"", ""hair"", ""salon's"", ""info"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+524,Post a message on Facebook saying I love Teletubbies!,"[""Post"", ""a"", ""message"", ""on"", ""Facebook"", ""saying"", ""I"", ""love"", ""Teletubbies"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+525,Post on Facebook 'I hope everyone is having a wonderful day' for me.,"[""Post"", ""on"", ""Facebook"", ""'"", ""I"", ""hope"", ""everyone"", ""is"", ""having"", ""a"", ""wonderful"", ""day"", ""'"", ""for"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+526,I want to post an update on Twitter.,"[""I"", ""want"", ""to"", ""post"", ""an"", ""update"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+527,Send a tweet to @BestBuy,"[""Send"", ""a"", ""tweet"", ""to"", ""@BestBuy""]","[0, 0, 0, 0, 0]",Post_message
+528,Let's create a personal note labeled Workout I meant to call it Bust A Move.,"[""Let's"", ""create"", ""a"", ""personal"", ""note"", ""labeled"", ""Workout"", ""I"", ""meant"", ""to"", ""call"", ""it"", ""Bust"", ""A"", ""Move"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+529,Can we make a note called gardening that's shared with Harry oops I mean Henry.,"[""Can"", ""we"", ""make"", ""a"", ""note"", ""called"", ""gardening"", ""that's"", ""shared"", ""with"", ""Harry"", ""oops"", ""I"", ""mean"", ""Henry"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+530,Can we create a note called Meijer no wait Harris Teeter.,"[""Can"", ""we"", ""create"", ""a"", ""note"", ""called"", ""Meijer"", ""no"", ""wait"", ""Harris"", ""Teeter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", 0]",Create_note
+531,Can you make 3pm household note? Please make it 4pm.,"[""Can"", ""you"", ""make"", ""3pm"", ""household"", ""note"", ""?"", ""Please"", ""make"", ""it"", ""4pm"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+532,"Make a note for dad on my ipad, use my tab instead.","[""Make"", ""a"", ""note"", ""for"", ""dad"", ""on"", ""my"", ""ipad,"", ""use"", ""my"", ""tab"", ""instead"", "".""]","[0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+533,write a family note I meant a private note with a reminder on Outlook for me now.,"[""write"", ""a"", ""family"", ""note"", ""I"", ""meant"", ""a"", ""private"", ""note"", ""with"", ""a"", ""reminder"", ""on"", ""Outlook"", ""for"", ""me"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+534,Make a memo with a reminder for 6 AM wait I mean 9 AM,"[""Make"", ""a"", ""memo"", ""with"", ""a"", ""reminder"", ""for"", ""6"", ""AM"", ""wait"", ""I"", ""mean"", ""9"", ""AM""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+535,"I want a note created that needs to be shared or no, wait, personal.","[""I"", ""want"", ""a"", ""note"", ""created"", ""that"", ""needs"", ""to"", ""be"", ""shared"", ""or"", ""no,"", ""wait,"", ""personal"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+536,write a family note I meant a personal note with a reminder on Outlook.,"[""write"", ""a"", ""family"", ""note"", ""I"", ""meant"", ""a"", ""personal"", ""note"", ""with"", ""a"", ""reminder"", ""on"", ""Outlook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+537,Write a private memo with a reminder on outlook I mean in apple note,"[""Write"", ""a"", ""private"", ""memo"", ""with"", ""a"", ""reminder"", ""on"", ""outlook"", ""I"", ""mean"", ""in"", ""apple"", ""note""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+538,Can you create a note to send to Jim at 5 no make that 6 today?,"[""Can"", ""you"", ""create"", ""a"", ""note"", ""to"", ""send"", ""to"", ""Jim"", ""at"", ""5"", ""no"", ""make"", ""that"", ""6"", ""today"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+539,Write a household note with a reminder for tomorrow wait I mean tonight,"[""Write"", ""a"", ""household"", ""note"", ""with"", ""a"", ""reminder"", ""for"", ""tomorrow"", ""wait"", ""I"", ""mean"", ""tonight""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+540,"I need to write a new note on my tablet, no make that my laptop.","[""I"", ""need"", ""to"", ""write"", ""a"", ""new"", ""note"", ""on"", ""my"", ""tablet,"", ""no"", ""make"", ""that"", ""my"", ""laptop"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+541,Create a note for Kenny I mean Lenny on my iPhone.,"[""Create"", ""a"", ""note"", ""for"", ""Kenny"", ""I"", ""mean"", ""Lenny"", ""on"", ""my"", ""iPhone"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0]",Create_note
+542,"Create a shopping note in keep, no use notepad.","[""Create"", ""a"", ""shopping"", ""note"", ""in"", ""keep,"", ""no"", ""use"", ""notepad"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+543,I want to make a note for Bruce I mean Ian now.,"[""I"", ""want"", ""to"", ""make"", ""a"", ""note"", ""for"", ""Bruce"", ""I"", ""mean"", ""Ian"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0]",Create_note
+544,Make a note for Dad on my tablet wait no make it for Mom.,"[""Make"", ""a"", ""note"", ""for"", ""Dad"", ""on"", ""my"", ""tablet"", ""wait"", ""no"", ""make"", ""it"", ""for"", ""Mom"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+545,"Write a reminder to wish Grandma a happy birthday today, oops, tomorrow.","[""Write"", ""a"", ""reminder"", ""to"", ""wish"", ""Grandma"", ""a"", ""happy"", ""birthday"", ""today,"", ""oops,"", ""tomorrow"", "".""]","[0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", ""content"", 0, 0, 0, 0]",Create_note
+546,Can you make a post it note for 6pm oops 8pm?,"[""Can"", ""you"", ""make"", ""a"", ""post"", ""it"", ""note"", ""for"", ""6pm"", ""oops"", ""8pm"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+547,Make a note for Jane on my iPhone wait no make it for Jack,"[""Make"", ""a"", ""note"", ""for"", ""Jane"", ""on"", ""my"", ""iPhone"", ""wait"", ""no"", ""make"", ""it"", ""for"", ""Jack""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person""]",Create_note
+548,"I want a new shared note or, wait, personal instead.","[""I"", ""want"", ""a"", ""new"", ""shared"", ""note"", ""or,"", ""wait,"", ""personal"", ""instead"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+549,I need a shared note wait no a private note called teatime.,"[""I"", ""need"", ""a"", ""shared"", ""note"", ""wait"", ""no"", ""a"", ""private"", ""note"", ""called"", ""teatime"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+550,create a new private note to order food at 3 pm for me actually make it 4:30 pm for me please.,"[""create"", ""a"", ""new"", ""private"", ""note"", ""to"", ""order"", ""food"", ""at"", ""3"", ""pm"", ""for"", ""me"", ""actually"", ""make"", ""it"", ""4:30"", ""pm"", ""for"", ""me"", ""please"", "".""]","[0, 0, 0, 0, 0, 0, ""content"", ""content"", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+551,Create a note on my iPhone I mean on my Samsung phone.,"[""Create"", ""a"", ""note"", ""on"", ""my"", ""iPhone"", ""I"", ""mean"", ""on"", ""my"", ""Samsung"", ""phone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+552,Make a note for Dad on my iPhone wait no make it for Mom.,"[""Make"", ""a"", ""note"", ""for"", ""Dad"", ""on"", ""my"", ""iPhone"", ""wait"", ""no"", ""make"", ""it"", ""for"", ""Mom"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+553,create a new private note to order food at 3 pm for me actually make it 4:30 pm for me.,"[""create"", ""a"", ""new"", ""private"", ""note"", ""to"", ""order"", ""food"", ""at"", ""3"", ""pm"", ""for"", ""me"", ""actually"", ""make"", ""it"", ""4:30"", ""pm"", ""for"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, ""content"", ""content"", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+554,"Create a Twitter, I mean Facebook post.","[""Create"", ""a"", ""Twitter,"", ""I"", ""mean"", ""Facebook"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+555,"I want to post a new status on Facebook, oh no on Twitter.","[""I"", ""want"", ""to"", ""post"", ""a"", ""new"", ""status"", ""on"", ""Facebook,"", ""oh"", ""no"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+556,"Go ahead and message Tim about the school, I mean the bus.","[""Go"", ""ahead"", ""and"", ""message"", ""Tim"", ""about"", ""the"", ""school,"", ""I"", ""mean"", ""the"", ""bus"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+557,"I need to write a new post on Facebook, no I mean Instagram.","[""I"", ""need"", ""to"", ""write"", ""a"", ""new"", ""post"", ""on"", ""Facebook,"", ""no"", ""I"", ""mean"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+558,Use Twitter no Instagram to share the information.,"[""Use"", ""Twitter"", ""no"", ""Instagram"", ""to"", ""share"", ""the"", ""information"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+559,"Update my Twitter, I mean Facebook status.","[""Update"", ""my"", ""Twitter,"", ""I"", ""mean"", ""Facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+560,Post the images on Twitter I mean Instagram.,"[""Post"", ""the"", ""images"", ""on"", ""Twitter"", ""I"", ""mean"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+561,Please make a post on Facebook oops I meant Twitter for me.,"[""Please"", ""make"", ""a"", ""post"", ""on"", ""Facebook"", ""oops"", ""I"", ""meant"", ""Twitter"", ""for"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+562,Make a Facebook post I mean Instagram post.,"[""Make"", ""a"", ""Facebook"", ""post"", ""I"", ""mean"", ""Instagram"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+563,"Post a Facebook, no, Twitter status.","[""Post"", ""a"", ""Facebook,"", ""no,"", ""Twitter"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+564,"Change my Facebook post to it's vacation time, no instead it's the end of vacation.","[""Change"", ""my"", ""Facebook"", ""post"", ""to"", ""it's"", ""vacation"", ""time,"", ""no"", ""instead"", ""it's"", ""the"", ""end"", ""of"", ""vacation"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+565,"Post a Twitter, I mean a Facebook update.","[""Post"", ""a"", ""Twitter,"", ""I"", ""mean"", ""a"", ""Facebook"", ""update"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+566,"Post a new message on Facebook, no make that Instagram","[""Post"", ""a"", ""new"", ""message"", ""on"", ""Facebook,"", ""no"", ""make"", ""that"", ""Instagram""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+567,Post on Facebook oops I meant Twitter 'I'm having such a great day!' for me now.,"[""Post"", ""on"", ""Facebook"", ""oops"", ""I"", ""meant"", ""Twitter"", ""'"", ""I'm"", ""having"", ""such"", ""a"", ""great"", ""day"", ""!"", ""'"", ""for"", ""me"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+568,"Post on instagram, I mean facebook","[""Post"", ""on"", ""instagram,"", ""I"", ""mean"", ""facebook""]","[0, 0, 0, 0, 0, 0]",Post_message
+569,Post on Twitter I mean Facebook I had a great day.,"[""Post"", ""on"", ""Twitter"", ""I"", ""mean"", ""Facebook"", ""I"", ""had"", ""a"", ""great"", ""day"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+570,"I want to update my facebook, I mean twitter profile to single.","[""I"", ""want"", ""to"", ""update"", ""my"", ""facebook,"", ""I"", ""mean"", ""twitter"", ""profile"", ""to"", ""single"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+571,On Facebook make a post of my status as married um I mean single.,"[""On"", ""Facebook"", ""make"", ""a"", ""post"", ""of"", ""my"", ""status"", ""as"", ""married"", ""um"", ""I"", ""mean"", ""single"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+572,Please post on Facebook oops I meant Twitter 'I'm having such a great day!'.,"[""Please"", ""post"", ""on"", ""Facebook"", ""oops"", ""I"", ""meant"", ""Twitter"", ""'"", ""I'm"", ""having"", ""such"", ""a"", ""great"", ""day"", ""!"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+573,Change my Facebook no I mean Instagram status to married.,"[""Change"", ""my"", ""Facebook"", ""no"", ""I"", ""mean"", ""Instagram"", ""status"", ""to"", ""married"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+574,"I want to post, I mean tweet on Twitter.","[""I"", ""want"", ""to"", ""post,"", ""I"", ""mean"", ""tweet"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+575,make facebook no instagram post,"[""make"", ""facebook"", ""no"", ""instagram"", ""post""]","[0, 0, 0, 0, 0]",Post_message
+576,Make a post to Snapchat I mean to Tik Tok.,"[""Make"", ""a"", ""post"", ""to"", ""Snapchat"", ""I"", ""mean"", ""to"", ""Tik"", ""Tok"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+577,Update my Twitter I mean Facebook status.,"[""Update"", ""my"", ""Twitter"", ""I"", ""mean"", ""Facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+578,"Update my Instagram, I mean Facebook status to 'Enjoying the weekend in style'.","[""Update"", ""my"", ""Instagram,"", ""I"", ""mean"", ""Facebook"", ""status"", ""to"", ""'"", ""Enjoying"", ""the"", ""weekend"", ""in"", ""style"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+579,"Post an Instagram, sorry, a Facebook status update, please.","[""Post"", ""an"", ""Instagram,"", ""sorry,"", ""a"", ""Facebook"", ""status"", ""update,"", ""please"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+580,"Tweet about Sarah, I mean Sari's birthday.","[""Tweet"", ""about"", ""Sarah,"", ""I"", ""mean"", ""Sari's"", ""birthday"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+581,"Post a new photo, I mean, message.","[""Post"", ""a"", ""new"", ""photo,"", ""I"", ""mean,"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+582,Make a post on Facebook oops I meant Twitter now.,"[""Make"", ""a"", ""post"", ""on"", ""Facebook"", ""oops"", ""I"", ""meant"", ""Twitter"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+583,"Create a new status, I mean post on Facebook saying 'Looking for love in all the wrong places'.","[""Create"", ""a"", ""new"", ""status,"", ""I"", ""mean"", ""post"", ""on"", ""Facebook"", ""saying"", ""'"", ""Looking"", ""for"", ""love"", ""in"", ""all"", ""the"", ""wrong"", ""places"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+584,Post the weather update on Twitter I mean Instagram.,"[""Post"", ""the"", ""weather"", ""update"", ""on"", ""Twitter"", ""I"", ""mean"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+585,Create a new post on my whatsapp no my facebook saying enjoy my new series,"[""Create"", ""a"", ""new"", ""post"", ""on"", ""my"", ""whatsapp"", ""no"", ""my"", ""facebook"", ""saying"", ""enjoy"", ""my"", ""new"", ""series""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+586,"Post on Facebook please, no TikTok.","[""Post"", ""on"", ""Facebook"", ""please,"", ""no"", ""TikTok"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+587,"I want to post a new message on Facebook, oh no, Tumblr.","[""I"", ""want"", ""to"", ""post"", ""a"", ""new"", ""message"", ""on"", ""Facebook,"", ""oh"", ""no,"", ""Tumblr"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+588,Tweet on whatsapp no facebook feeling great,"[""Tweet"", ""on"", ""whatsapp"", ""no"", ""facebook"", ""feeling"", ""great""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+589,"Post on Instagram, no um, Facebook 'looking for movie place recommendations'.","[""Post"", ""on"", ""Instagram,"", ""no"", ""um,"", ""Facebook"", ""'"", ""looking"", ""for"", ""movie"", ""place"", ""recommendations"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+590,make instagram no twitter post,"[""make"", ""instagram"", ""no"", ""twitter"", ""post""]","[0, 0, 0, 0, 0]",Post_message
+591,"Post a message on the WhatsApp, sorry Facebook group.","[""Post"", ""a"", ""message"", ""on"", ""the"", ""WhatsApp,"", ""sorry"", ""Facebook"", ""group"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+592,"Post on instagram, I mean twitter","[""Post"", ""on"", ""instagram,"", ""I"", ""mean"", ""twitter""]","[0, 0, 0, 0, 0, 0]",Post_message
+593,"Post on LinkedIn, no, on Twitter where I am at.","[""Post"", ""on"", ""LinkedIn,"", ""no,"", ""on"", ""Twitter"", ""where"", ""I"", ""am"", ""at"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+594,Please make a post on Facebook oops I meant Twitter.,"[""Please"", ""make"", ""a"", ""post"", ""on"", ""Facebook"", ""oops"", ""I"", ""meant"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+595,"Tweet a message for me, mmm, actually let's go ahead and post it on Instagram.","[""Tweet"", ""a"", ""message"", ""for"", ""me,"", ""mmm,"", ""actually"", ""let's"", ""go"", ""ahead"", ""and"", ""post"", ""it"", ""on"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+596,"Tweet that I'm married, I mean engaged.","[""Tweet"", ""that"", ""I'm"", ""married,"", ""I"", ""mean"", ""engaged"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+597,Tweet it's Texas Independence Day! No actually Tweet it's opening day of dove season so people understand.,"[""Tweet"", ""it's"", ""Texas"", ""Independence"", ""Day"", ""!"", ""No"", ""actually"", ""Tweet"", ""it's"", ""opening"", ""day"", ""of"", ""dove"", ""season"", ""so"", ""people"", ""understand"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+598,"Update my LinkedIn status, no, my Facebook status.","[""Update"", ""my"", ""LinkedIn"", ""status,"", ""no,"", ""my"", ""Facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+599,"Post on Twitter, I mean Facebook.","[""Post"", ""on"", ""Twitter,"", ""I"", ""mean"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+600,"post on instagram, actually facebook","[""post"", ""on"", ""instagram,"", ""actually"", ""facebook""]","[0, 0, 0, 0, 0]",Post_message
+601,Tweet what a great day uh actually post on Facebook.,"[""Tweet"", ""what"", ""a"", ""great"", ""day"", ""uh"", ""actually"", ""post"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+602,Post I am so blessed no I mean post We are so blessed.,"[""Post"", ""I"", ""am"", ""so"", ""blessed"", ""no"", ""I"", ""mean"", ""post"", ""We"", ""are"", ""so"", ""blessed"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+603,"Let's write a new post on my Twitter, no let's make it Facebook.","[""Let's"", ""write"", ""a"", ""new"", ""post"", ""on"", ""my"", ""Twitter,"", ""no"", ""let's"", ""make"", ""it"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+604,"Create a post on Twitter, I mean Facebook that says I need coffee STAT.","[""Create"", ""a"", ""post"", ""on"", ""Twitter,"", ""I"", ""mean"", ""Facebook"", ""that"", ""says"", ""I"", ""need"", ""coffee"", ""STAT"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+605,"Tweet feeling happy, i mean feeling great on facebook","[""Tweet"", ""feeling"", ""happy,"", ""i"", ""mean"", ""feeling"", ""great"", ""on"", ""facebook""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+606,"Post audio, sorry, a message saying party on the 26th.","[""Post"", ""audio,"", ""sorry,"", ""a"", ""message"", ""saying"", ""party"", ""on"", ""the"", ""26th"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+607,"Please post '@Jack How's Jill feeling?' on Facebook tonight, uh, today.","[""Please"", ""post"", ""'"", ""@Jack"", ""How's"", ""Jill"", ""feeling"", ""?"", ""'"", ""on"", ""Facebook"", ""tonight,"", ""uh,"", ""today"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+608,"Write a new post on Facebook, I mean Twitter.","[""Write"", ""a"", ""new"", ""post"", ""on"", ""Facebook,"", ""I"", ""mean"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+609,"Please post a message on Facebook, I mean Twitter.","[""Please"", ""post"", ""a"", ""message"", ""on"", ""Facebook,"", ""I"", ""mean"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+610,Update LinkedIn no Facebook about my new relationship,"[""Update"", ""LinkedIn"", ""no"", ""Facebook"", ""about"", ""my"", ""new"", ""relationship""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+611,"Make my Facebook, no Twitter status 'Winning the game'.","[""Make"", ""my"", ""Facebook,"", ""no"", ""Twitter"", ""status"", ""'"", ""Winning"", ""the"", ""game"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+612,Post a message on Reddit I mean Twitter.,"[""Post"", ""a"", ""message"", ""on"", ""Reddit"", ""I"", ""mean"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+613,"make a new post about the election, I mean the electron.","[""make"", ""a"", ""new"", ""post"", ""about"", ""the"", ""election,"", ""I"", ""mean"", ""the"", ""electron"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+614,"Please tweet I'm happy today on Facebook, I mean Twitter.","[""Please"", ""tweet"", ""I'm"", ""happy"", ""today"", ""on"", ""Facebook,"", ""I"", ""mean"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+615,"Change my Twitter, I mean Facebook status.","[""Change"", ""my"", ""Twitter,"", ""I"", ""mean"", ""Facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+616,"With Facebook, I mean on Instagram post a message.","[""With"", ""Facebook,"", ""I"", ""mean"", ""on"", ""Instagram"", ""post"", ""a"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+617,Make a post on Facebook um a tweet on Twitter.,"[""Make"", ""a"", ""post"", ""on"", ""Facebook"", ""um"", ""a"", ""tweet"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+618,Post 'ON MY VACAY' to twitter,"[""Post"", ""'"", ""ON"", ""MY"", ""VACAY"", ""'"", ""to"", ""twitter""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+619,"I would like to Tweet that I'm ok, no that I am doing great.","[""I"", ""would"", ""like"", ""to"", ""Tweet"", ""that"", ""I'm"", ""ok,"", ""no"", ""that"", ""I"", ""am"", ""doing"", ""great"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+620,"Make a post on Facebook, no LinkedIn with I just got the job!","[""Make"", ""a"", ""post"", ""on"", ""Facebook,"", ""no"", ""LinkedIn"", ""with"", ""I"", ""just"", ""got"", ""the"", ""job"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+621,Post on Instagram no on Facebook the pictures of the baby.,"[""Post"", ""on"", ""Instagram"", ""no"", ""on"", ""Facebook"", ""the"", ""pictures"", ""of"", ""the"", ""baby"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+622,"Tweet my birthday, sorry my status.","[""Tweet"", ""my"", ""birthday,"", ""sorry"", ""my"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+623,create facebook no instagram post,"[""create"", ""facebook"", ""no"", ""instagram"", ""post""]","[0, 0, 0, 0, 0]",Post_message
+624,Let's make a note a reminder note to pick up milk.,"[""Let's"", ""make"", ""a"", ""note"", ""a"", ""reminder"", ""note"", ""to"", ""pick"", ""up"", ""milk"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", 0]",Create_note
+625,Let's make a note called Aldi a note.,"[""Let's"", ""make"", ""a"", ""note"", ""called"", ""Aldi"", ""a"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+626,Create a note called Chores call it Chores.,"[""Create"", ""a"", ""note"", ""called"", ""Chores"", ""call"", ""it"", ""Chores"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+627,Go ahead and go ahead and create a note.,"[""Go"", ""ahead"", ""and"", ""go"", ""ahead"", ""and"", ""create"", ""a"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+628,Create a create a note to meet John at 4am.,"[""Create"", ""a"", ""create"", ""a"", ""note"", ""to"", ""meet"", ""John"", ""at"", ""4am"", "".""]","[0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+629,Write down write down a personal note for tomorrow.,"[""Write"", ""down"", ""write"", ""down"", ""a"", ""personal"", ""note"", ""for"", ""tomorrow"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+630,make sure to make a note for make a note for Kaytie.,"[""make"", ""sure"", ""to"", ""make"", ""a"", ""note"", ""for"", ""make"", ""a"", ""note"", ""for"", ""Kaytie"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+631,Note can you make a to-do note for Harry with a reminder,"[""Note"", ""can"", ""you"", ""make"", ""a"", ""to-do"", ""note"", ""for"", ""Harry"", ""with"", ""a"", ""reminder""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0]",Create_note
+632,Make a note note now.,"[""Make"", ""a"", ""note"", ""note"", ""now"", "".""]","[0, 0, 0, 0, 0, 0]",Create_note
+633,Create a note create a note right now.,"[""Create"", ""a"", ""note"", ""create"", ""a"", ""note"", ""right"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+634,"Please create me a note, a new note please.","[""Please"", ""create"", ""me"", ""a"", ""note,"", ""a"", ""new"", ""note"", ""please"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+635,Can you can you make a private note?,"[""Can"", ""you"", ""can"", ""you"", ""make"", ""a"", ""private"", ""note"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+636,Let's generate a note a note for James that says take out the trash on my iPad.,"[""Let's"", ""generate"", ""a"", ""note"", ""a"", ""note"", ""for"", ""James"", ""that"", ""says"", ""take"", ""out"", ""the"", ""trash"", ""on"", ""my"", ""iPad"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, ""content"", ""content"", ""content"", ""content"", 0, 0, 0, 0]",Create_note
+637,Note can you make a shopping post-it note for Walker with a reminder on my iPhone that says shoes,"[""Note"", ""can"", ""you"", ""make"", ""a"", ""shopping"", ""post-it"", ""note"", ""for"", ""Walker"", ""with"", ""a"", ""reminder"", ""on"", ""my"", ""iPhone"", ""that"", ""says"", ""shoes""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0, 0, 0, ""content""]",Create_note
+638,Remind me with a note note.,"[""Remind"", ""me"", ""with"", ""a"", ""note"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+639,Note can you can you make a shopping post-it note.,"[""Note"", ""can"", ""you"", ""can"", ""you"", ""make"", ""a"", ""shopping"", ""post-it"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+640,I need to make a reminder a note with a reminder.,"[""I"", ""need"", ""to"", ""make"", ""a"", ""reminder"", ""a"", ""note"", ""with"", ""a"", ""reminder"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+641,Make a note personal note to book the safari.,"[""Make"", ""a"", ""note"", ""personal"", ""note"", ""to"", ""book"", ""the"", ""safari"", "".""]","[0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", 0]",Create_note
+642,Would you generate a note a note for Molly to turn off the pool water?,"[""Would"", ""you"", ""generate"", ""a"", ""note"", ""a"", ""note"", ""for"", ""Molly"", ""to"", ""turn"", ""off"", ""the"", ""pool"", ""water"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, ""person"", 0, ""content"", ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+643,Let's make a Dan note a note for Dan.,"[""Let's"", ""make"", ""a"", ""Dan"", ""note"", ""a"", ""note"", ""for"", ""Dan"", "".""]","[0, 0, 0, ""person"", 0, 0, 0, 0, 0, 0]",Create_note
+644,Create Create a note for mom.,"[""Create"", ""Create"", ""a"", ""note"", ""for"", ""mom"", "".""]","[0, 0, 0, 0, 0, ""person"", 0]",Create_note
+645,I'd like to create a note create a new note.,"[""I'd"", ""like"", ""to"", ""create"", ""a"", ""note"", ""create"", ""a"", ""new"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+646,For Bob make a memo for Bob about the next work meeting.,"[""For"", ""Bob"", ""make"", ""a"", ""memo"", ""for"", ""Bob"", ""about"", ""the"", ""next"", ""work"", ""meeting"", "".""]","[0, ""person"", 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", 0]",Create_note
+647,Create create a note.,"[""Create"", ""create"", ""a"", ""note"", "".""]","[0, 0, 0, 0, 0]",Create_note
+648,Can we please generate a note with a reminder generate a note with a reminder?,"[""Can"", ""we"", ""please"", ""generate"", ""a"", ""note"", ""with"", ""a"", ""reminder"", ""generate"", ""a"", ""note"", ""with"", ""a"", ""reminder"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+649,Note for Justin create a note for Justin.,"[""Note"", ""for"", ""Justin"", ""create"", ""a"", ""note"", ""for"", ""Justin"", "".""]","[0, 0, ""person"", 0, 0, 0, 0, 0, 0]",Create_note
+650,"A note for, could you please make a new note for school shopping.","[""A"", ""note"", ""for,"", ""could"", ""you"", ""please"", ""make"", ""a"", ""new"", ""note"", ""for"", ""school"", ""shopping"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+651,I want to generate a note generate a note.,"[""I"", ""want"", ""to"", ""generate"", ""a"", ""note"", ""generate"", ""a"", ""note"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+652,Post on Facebook on Facebook  about my current status.,"[""Post"", ""on"", ""Facebook"", ""on"", ""Facebook"", ""about"", ""my"", ""current"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+653,Please uh update Twitter.,"[""Please"", ""uh"", ""update"", ""Twitter"", "".""]","[0, 0, 0, 0, 0]",Post_message
+654,Update my my LinkedIn.,"[""Update"", ""my"", ""my"", ""LinkedIn"", "".""]","[0, 0, 0, 0, 0]",Post_message
+655,Update my Instagram with my my new car.,"[""Update"", ""my"", ""Instagram"", ""with"", ""my"", ""my"", ""new"", ""car"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+656,Tweet that I had a ton of fun yeah a ton of fun.,"[""Tweet"", ""that"", ""I"", ""had"", ""a"", ""ton"", ""of"", ""fun"", ""yeah"", ""a"", ""ton"", ""of"", ""fun"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+657,I want to make I want to post a new tweet.,"[""I"", ""want"", ""to"", ""make"", ""I"", ""want"", ""to"", ""post"", ""a"", ""new"", ""tweet"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+658,"Make a um, Tweet @ john congrats on the new job.","[""Make"", ""a"", ""um,"", ""Tweet"", ""@"", ""john"", ""congrats"", ""on"", ""the"", ""new"", ""job"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+659,I'd like to I want to write a message on Facebook.,"[""I'd"", ""like"", ""to"", ""I"", ""want"", ""to"", ""write"", ""a"", ""message"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+660,I would like to to update my Instagram.,"[""I"", ""would"", ""like"", ""to"", ""to"", ""update"", ""my"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+661,Post that I like spam on Facebook on Facebook.,"[""Post"", ""that"", ""I"", ""like"", ""spam"", ""on"", ""Facebook"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+662,Make a new status on my my Facebook wall.,"[""Make"", ""a"", ""new"", ""status"", ""on"", ""my"", ""my"", ""Facebook"", ""wall"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+663,Tweet umm It's a girl!!,"[""Tweet"", ""umm"", ""It's"", ""a"", ""girl"", ""!"", ""!""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+664,Create a new um a new LinkedIn post.,"[""Create"", ""a"", ""new"", ""um"", ""a"", ""new"", ""LinkedIn"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+665,Post a tweet that that we're moving.,"[""Post"", ""a"", ""tweet"", ""that"", ""that"", ""we're"", ""moving"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+666,Tweet 'I am am giving away free toddler girl clothes'.,"[""Tweet"", ""'"", ""I"", ""am"", ""am"", ""giving"", ""away"", ""free"", ""toddler"", ""girl"", ""clothes"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+667,Post a new um status on Twitter.,"[""Post"", ""a"", ""new"", ""um"", ""status"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+668,Post on um LinkedIn um the market is crazy today!,"[""Post"", ""on"", ""um"", ""LinkedIn"", ""um"", ""the"", ""market"", ""is"", ""crazy"", ""today"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+669,Um uh post a new message.,"[""Um"", ""uh"", ""post"", ""a"", ""new"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+670,"Let's change my, um my Facebook status.","[""Let's"", ""change"", ""my,"", ""um"", ""my"", ""Facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+671,Create a new post on ig I mean Instagram saying 'welcome to the new month',"[""Create"", ""a"", ""new"", ""post"", ""on"", ""ig"", ""I"", ""mean"", ""Instagram"", ""saying"", ""'"", ""welcome"", ""to"", ""the"", ""new"", ""month"", ""'""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+672,Can I post that um I won?,"[""Can"", ""I"", ""post"", ""that"", ""um"", ""I"", ""won"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+673,I want to update status um on Tumblr.,"[""I"", ""want"", ""to"", ""update"", ""status"", ""um"", ""on"", ""Tumblr"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+674,Post on Instagram on Instagram about my current status.,"[""Post"", ""on"", ""Instagram"", ""on"", ""Instagram"", ""about"", ""my"", ""current"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+675,I need a new uh I need to write a new post for LinkedIn.,"[""I"", ""need"", ""a"", ""new"", ""uh"", ""I"", ""need"", ""to"", ""write"", ""a"", ""new"", ""post"", ""for"", ""LinkedIn"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+676,Let's make a a a new social media a new Facebook post.,"[""Let's"", ""make"", ""a"", ""a"", ""a"", ""new"", ""social"", ""media"", ""a"", ""new"", ""Facebook"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+677,Please um post on Facebook.,"[""Please"", ""um"", ""post"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+678,Post an an Instagram story update.,"[""Post"", ""an"", ""an"", ""Instagram"", ""story"", ""update"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+679,Can you you tweet I need a drink?,"[""Can"", ""you"", ""you"", ""tweet"", ""I"", ""need"", ""a"", ""drink"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+680,"Um, let's Tweet what I just saw on the news.","[""Um,"", ""let's"", ""Tweet"", ""what"", ""I"", ""just"", ""saw"", ""on"", ""the"", ""news"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+681,Please um update update Facebook.,"[""Please"", ""um"", ""update"", ""update"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+682,Update Facebook um with 'we lose the game'.,"[""Update"", ""Facebook"", ""um"", ""with"", ""'"", ""we"", ""lose"", ""the"", ""game"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+683,I want to make an update to my my status.,"[""I"", ""want"", ""to"", ""make"", ""an"", ""update"", ""to"", ""my"", ""my"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+684,Please I want to to update my Snapchat status.,"[""Please"", ""I"", ""want"", ""to"", ""to"", ""update"", ""my"", ""Snapchat"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+685,Create a uhh new Facebook post.,"[""Create"", ""a"", ""uhh"", ""new"", ""Facebook"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+686,I'd love to post to Facebook that my uh friend my best friend lost her dog.,"[""I'd"", ""love"", ""to"", ""post"", ""to"", ""Facebook"", ""that"", ""my"", ""uh"", ""friend"", ""my"", ""best"", ""friend"", ""lost"", ""her"", ""dog"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+687,Update my update my facebook status.,"[""Update"", ""my"", ""update"", ""my"", ""facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+688,Tweet congrats to all the new teachers to the Chesapeake Public Schools profile um page.,"[""Tweet"", ""congrats"", ""to"", ""all"", ""the"", ""new"", ""teachers"", ""to"", ""the"", ""Chesapeake"", ""Public"", ""Schools"", ""profile"", ""um"", ""page"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+689,Um please um post on Facebook and say I won!,"[""Um"", ""please"", ""um"", ""post"", ""on"", ""Facebook"", ""and"", ""say"", ""I"", ""won"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+690,Add my graduation status on my um Facebook page.,"[""Add"", ""my"", ""graduation"", ""status"", ""on"", ""my"", ""um"", ""Facebook"", ""page"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+691,Update Instagram with we we lost the game today.,"[""Update"", ""Instagram"", ""with"", ""we"", ""we"", ""lost"", ""the"", ""game"", ""today"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+692,Update my um status on Facebook,"[""Update"", ""my"", ""um"", ""status"", ""on"", ""Facebook""]","[0, 0, 0, 0, 0, 0]",Post_message
+693,Post I got a new a new car on Facebook.,"[""Post"", ""I"", ""got"", ""a"", ""new"", ""a"", ""new"", ""car"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+694,Post a message on Face Facebook.,"[""Post"", ""a"", ""message"", ""on"", ""Face"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+695,Let's let's update the status of my Facebook now.,"[""Let's"", ""let's"", ""update"", ""the"", ""status"", ""of"", ""my"", ""Facebook"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+696,"Change my, my, uh, Facebook status to 'Retired and loving it'.","[""Change"", ""my,"", ""my,"", ""uh,"", ""Facebook"", ""status"", ""to"", ""'"", ""Retired"", ""and"", ""loving"", ""it"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+697,Post uh on Tumblr.,"[""Post"", ""uh"", ""on"", ""Tumblr"", "".""]","[0, 0, 0, 0, 0]",Post_message
+698,I would like to uh post a message on Reddit.,"[""I"", ""would"", ""like"", ""to"", ""uh"", ""post"", ""a"", ""message"", ""on"", ""Reddit"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+699,Tweet um tweet '@ Sarah happy bday!',"[""Tweet"", ""um"", ""tweet"", ""'"", ""@"", ""Sarah"", ""happy"", ""bday"", ""!"", ""'""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+700,Post a a message on Twitter about my yard sale.,"[""Post"", ""a"", ""a"", ""message"", ""on"", ""Twitter"", ""about"", ""my"", ""yard"", ""sale"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+701,"Create a new, duh, new post on Facebook saying 'Be good to each other!'.","[""Create"", ""a"", ""new,"", ""duh,"", ""new"", ""post"", ""on"", ""Facebook"", ""saying"", ""'"", ""Be"", ""good"", ""to"", ""each"", ""other"", ""!"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+702,"Please post this, post this Be a blessing today on Facebook for me.","[""Please"", ""post"", ""this,"", ""post"", ""this"", ""Be"", ""a"", ""blessing"", ""today"", ""on"", ""Facebook"", ""for"", ""me"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+703,Change my Facebook status to say to say time for a road trip!,"[""Change"", ""my"", ""Facebook"", ""status"", ""to"", ""say"", ""to"", ""say"", ""time"", ""for"", ""a"", ""road"", ""trip"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+704,Let's post on Facebook on Facebook 'I love my wife.',"[""Let's"", ""post"", ""on"", ""Facebook"", ""on"", ""Facebook"", ""'"", ""I"", ""love"", ""my"", ""wife"", ""."", ""'""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+705,I want to post we we won on Twitter.,"[""I"", ""want"", ""to"", ""post"", ""we"", ""we"", ""won"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+706,I want to um Tweet my relationship status.,"[""I"", ""want"", ""to"", ""um"", ""Tweet"", ""my"", ""relationship"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+707,Let's Tweet out a new a new post.,"[""Let's"", ""Tweet"", ""out"", ""a"", ""new"", ""a"", ""new"", ""post"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+708,I would like to uh update the status.,"[""I"", ""would"", ""like"", ""to"", ""uh"", ""update"", ""the"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+709,"Let's update my LinkedIn status now, yeah, um, now.","[""Let's"", ""update"", ""my"", ""LinkedIn"", ""status"", ""now,"", ""yeah,"", ""um,"", ""now"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+710,Update my umm Facebook status as looking for a good place to eat out any ideas,"[""Update"", ""my"", ""umm"", ""Facebook"", ""status"", ""as"", ""looking"", ""for"", ""a"", ""good"", ""place"", ""to"", ""eat"", ""out"", ""any"", ""ideas""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+711,"Um, let's make a post on Instagram.","[""Um,"", ""let's"", ""make"", ""a"", ""post"", ""on"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+712,Please update my status on LinkedIn um LinkedIn saying I am unemployed.,"[""Please"", ""update"", ""my"", ""status"", ""on"", ""LinkedIn"", ""um"", ""LinkedIn"", ""saying"", ""I"", ""am"", ""unemployed"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+713,I need to to update my LinkedIn status.,"[""I"", ""need"", ""to"", ""to"", ""update"", ""my"", ""LinkedIn"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+714,"I would like to um like to post to Facebook and say, Be the reason someone smiles today!","[""I"", ""would"", ""like"", ""to"", ""um"", ""like"", ""to"", ""post"", ""to"", ""Facebook"", ""and"", ""say,"", ""Be"", ""the"", ""reason"", ""someone"", ""smiles"", ""today"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+715,Let's um post that I won.,"[""Let's"", ""um"", ""post"", ""that"", ""I"", ""won"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+716,Update my Facebook status status.,"[""Update"", ""my"", ""Facebook"", ""status"", ""status"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+717,Post the coaching job on Linkedin um school position,"[""Post"", ""the"", ""coaching"", ""job"", ""on"", ""Linkedin"", ""um"", ""school"", ""position""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+718,"Uh, let's go ahead and tweet that message.","[""Uh,"", ""let's"", ""go"", ""ahead"", ""and"", ""tweet"", ""that"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+719,Post a new message on uh Facebook.,"[""Post"", ""a"", ""new"", ""message"", ""on"", ""uh"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+720,Tweet Tweet it's gonna be a good day!,"[""Tweet"", ""Tweet"", ""it's"", ""gonna"", ""be"", ""a"", ""good"", ""day"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+721,"Post to um, Facebook 'never had a bet better meal than at Vic's'.","[""Post"", ""to"", ""um,"", ""Facebook"", ""'"", ""never"", ""had"", ""a"", ""bet"", ""better"", ""meal"", ""than"", ""at"", ""Vic's"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+722,I wanna um update Tumblr.,"[""I"", ""wanna"", ""um"", ""update"", ""Tumblr"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+723,Please update um update my SnapChat status to We Won the game!,"[""Please"", ""update"", ""um"", ""update"", ""my"", ""SnapChat"", ""status"", ""to"", ""We"", ""Won"", ""the"", ""game"", ""!""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+724,Can you uh post on Twitter.,"[""Can"", ""you"", ""uh"", ""post"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+725,Put up a Facebook um a status with the current Cardinals score.,"[""Put"", ""up"", ""a"", ""Facebook"", ""um"", ""a"", ""status"", ""with"", ""the"", ""current"", ""Cardinals"", ""score"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+726,"Would you please update my, um my Facebook status.","[""Would"", ""you"", ""please"", ""update"", ""my,"", ""um"", ""my"", ""Facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+727,I have to I have to post on Facebook 'go shopping online'.,"[""I"", ""have"", ""to"", ""I"", ""have"", ""to"", ""post"", ""on"", ""Facebook"", ""'"", ""go"", ""shopping"", ""online"", ""'"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+728,Uh update the status.,"[""Uh"", ""update"", ""the"", ""status"", "".""]","[0, 0, 0, 0, 0]",Post_message
+729,Make make a new post.,"[""Make"", ""make"", ""a"", ""new"", ""post"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+730,"I want to make a post updating my, my status.","[""I"", ""want"", ""to"", ""make"", ""a"", ""post"", ""updating"", ""my,"", ""my"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+731,Make a make a Tweet.,"[""Make"", ""a"", ""make"", ""a"", ""Tweet"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+732,Update I'd like to update my LinkedIn status.,"[""Update"", ""I'd"", ""like"", ""to"", ""update"", ""my"", ""LinkedIn"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+733,I want to post on uh Instagram.,"[""I"", ""want"", ""to"", ""post"", ""on"", ""uh"", ""Instagram"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+734,I need I need um to update my status.,"[""I"", ""need"", ""I"", ""need"", ""um"", ""to"", ""update"", ""my"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+735,Update my my status.,"[""Update"", ""my"", ""my"", ""status"", "".""]","[0, 0, 0, 0, 0]",Post_message
+736,I need to um post a message on on NextDoor.,"[""I"", ""need"", ""to"", ""um"", ""post"", ""a"", ""message"", ""on"", ""on"", ""NextDoor"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+737,Post a what's WhatsApp status update,"[""Post"", ""a"", ""what's"", ""WhatsApp"", ""status"", ""update""]","[0, 0, 0, 0, 0, 0]",Post_message
+738,Put Happy Birthday Tom! uh put that as my Facebook status.,"[""Put"", ""Happy"", ""Birthday"", ""Tom"", ""!"", ""uh"", ""put"", ""that"", ""as"", ""my"", ""Facebook"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+739,I want to post um post a new status.,"[""I"", ""want"", ""to"", ""post"", ""um"", ""post"", ""a"", ""new"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+740,Uh um post a new um message.,"[""Uh"", ""um"", ""post"", ""a"", ""new"", ""um"", ""message"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+741,Tweet my status my status,"[""Tweet"", ""my"", ""status"", ""my"", ""status""]","[0, 0, 0, 0, 0]",Post_message
+742,I'd like to uhh post on my Facebook.,"[""I'd"", ""like"", ""to"", ""uhh"", ""post"", ""on"", ""my"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+743,Open a new Insta post with the last picture I um the last video I took.,"[""Open"", ""a"", ""new"", ""Insta"", ""post"", ""with"", ""the"", ""last"", ""picture"", ""I"", ""um"", ""the"", ""last"", ""video"", ""I"", ""took"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+744,Can I post a new um message on Facebook?,"[""Can"", ""I"", ""post"", ""a"", ""new"", ""um"", ""message"", ""on"", ""Facebook"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+745,Tweet on Twitter uh on Twitter.,"[""Tweet"", ""on"", ""Twitter"", ""uh"", ""on"", ""Twitter"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+746,Post a message um about my vacation to Hawaii.,"[""Post"", ""a"", ""message"", ""um"", ""about"", ""my"", ""vacation"", ""to"", ""Hawaii"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+747,Post a message on Facebook telling everyone that I got I got promoted.,"[""Post"", ""a"", ""message"", ""on"", ""Facebook"", ""telling"", ""everyone"", ""that"", ""I"", ""got"", ""I"", ""got"", ""promoted"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+748,Update my update my Facebook job status.,"[""Update"", ""my"", ""update"", ""my"", ""Facebook"", ""job"", ""status"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+749,I want to write a new Beitrag on my LinkedIn.,"[""I"", ""want"", ""to"", ""write"", ""a"", ""new"", ""Beitrag"", ""on"", ""my"", ""LinkedIn"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+750,Cámbiame el estado civil en Facebook a casado.,"[""C\u00e1mbiame"", ""el"", ""estado"", ""civil"", ""en"", ""Facebook"", ""a"", ""casado"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+751,Erstelle a Facebook post.,"[""Erstelle"", ""a"", ""Facebook"", ""post"", "".""]","[0, 0, 0, 0, 0]",Post_message
+752,Haz un post en Facebook,"[""Haz"", ""un"", ""post"", ""en"", ""Facebook""]","[0, 0, 0, 0, 0]",Post_message
+753,Status von Facebook updaten.,"[""Status"", ""von"", ""Facebook"", ""updaten"", "".""]","[0, 0, 0, 0, 0]",Post_message
+754,Create a new post on Facebook saying nouvelles photos.,"[""Create"", ""a"", ""new"", ""post"", ""on"", ""Facebook"", ""saying"", ""nouvelles"", ""photos"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+755,Tuitea @Juan ¡Bienvenido!,"[""Tuitea"", ""@Juan"", ""\u00a1Bienvenido"", ""!""]","[0, 0, 0, 0]",Post_message
+756,Change my Facebook status to de vacaciones.,"[""Change"", ""my"", ""Facebook"", ""status"", ""to"", ""de"", ""vacaciones"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+757,Please tweet @page somos the best.,"[""Please"", ""tweet"", ""@page"", ""somos"", ""the"", ""best"", "".""]","[0, 0, 0, 0, 0, 0, 0]",Post_message
+758,Tweet what a nice día.,"[""Tweet"", ""what"", ""a"", ""nice"", ""d\u00eda"", "".""]","[0, 0, 0, 0, 0, 0]",Post_message
+759,Poste a Twitter message.,"[""Poste"", ""a"", ""Twitter"", ""message"", "".""]","[0, 0, 0, 0, 0]",Post_message
+760,Schreib Happy new year to everybody on Facebook.,"[""Schreib"", ""Happy"", ""new"", ""year"", ""to"", ""everybody"", ""on"", ""Facebook"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Post_message
+761,create a note,"[""create"", ""a"", ""note""]","[0, 0, 0]",Create_note
+762,write a note to Nicole,"[""write"", ""a"", ""note"", ""to"", ""Nicole""]","[0, 0, 0, 0, ""person""]",Create_note
+763,Come by tomorrow evening,"[""Come"", ""by"", ""tomorrow"", ""evening""]","[""content"", ""content"", ""content"", ""content""]",Create_note
+764,Let's save a note on my phone.,"[""Let's"", ""save"", ""a"", ""note"", ""on"", ""my"", ""phone"", "".""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+765,Start a note.,"[""Start"", ""a"", ""note"", "".""]","[0, 0, 0, 0]",Create_note
+766,I would like to create a note,"[""I"", ""would"", ""like"", ""to"", ""create"", ""a"", ""note""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+767,Serial Code 345-EXP,"[""Serial"", ""Code"", ""345-EXP""]","[""content"", ""content"", ""content""]",Create_note
+768,Create schedule for team next week,"[""Create"", ""schedule"", ""for"", ""team"", ""next"", ""week""]","[""content"", ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+769,write a note to Reggie,"[""write"", ""a"", ""note"", ""to"", ""Reggie""]","[0, 0, 0, 0, ""person""]",Create_note
+770,write a note to Lisa,"[""write"", ""a"", ""note"", ""to"", ""Lisa""]","[0, 0, 0, 0, ""person""]",Create_note
+771,Pay power bill tomorrow,"[""Pay"", ""power"", ""bill"", ""tomorrow""]","[""content"", ""content"", ""content"", ""content""]",Create_note
+772,g,"[""g""]","[""content""]",Create_note
+773,I need to pickup Dan at the airport from the Hertz customer service counter instead.,"[""I"", ""need"", ""to"", ""pickup"", ""Dan"", ""at"", ""the"", ""airport"", ""from"", ""the"", ""Hertz"", ""customer"", ""service"", ""counter"", ""instead"", "".""]","[""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+774,Take a note.,"[""Take"", ""a"", ""note"", "".""]","[0, 0, 0, 0]",Create_note
+775,create a note on the notes app,"[""create"", ""a"", ""note"", ""on"", ""the"", ""notes"", ""app""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+776,Create a note on my iPad,"[""Create"", ""a"", ""note"", ""on"", ""my"", ""iPad""]","[0, 0, 0, 0, 0, 0]",Create_note
+777,Create a note,"[""Create"", ""a"", ""note""]","[0, 0, 0]",Create_note
+778,Add note to Notepad,"[""Add"", ""note"", ""to"", ""Notepad""]","[0, 0, 0, 0]",Create_note
+779,create a note in Google Keep,"[""create"", ""a"", ""note"", ""in"", ""Google"", ""Keep""]","[0, 0, 0, 0, 0, 0]",Create_note
+780,hope you're doing great,"[""hope"", ""you're"", ""doing"", ""great""]","[""content"", ""content"", ""content"", ""content""]",Create_note
+781,Write a note to Kennedy,"[""Write"", ""a"", ""note"", ""to"", ""Kennedy""]","[0, 0, 0, 0, ""person""]",Create_note
+782,Buy dog food,"[""Buy"", ""dog"", ""food""]","[""content"", ""content"", ""content""]",Create_note
+783,Create a note on my iPad,"[""Create"", ""a"", ""note"", ""on"", ""my"", ""iPad""]","[0, 0, 0, 0, 0, 0]",Create_note
+784,write a note,"[""write"", ""a"", ""note""]","[0, 0, 0]",Create_note
+785,make a note on my tablet,"[""make"", ""a"", ""note"", ""on"", ""my"", ""tablet""]","[0, 0, 0, 0, 0, 0]",Create_note
+786,all roads are dead ends,"[""all"", ""roads"", ""are"", ""dead"", ""ends""]","[""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+787,Actually could you write it on my iPad instead,"[""Actually"", ""could"", ""you"", ""write"", ""it"", ""on"", ""my"", ""iPad"", ""instead""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+788,Write a note for Susie saying that you need to pick up the takeout,"[""Write"", ""a"", ""note"", ""for"", ""Susie"", ""saying"", ""that"", ""you"", ""need"", ""to"", ""pick"", ""up"", ""the"", ""takeout""]","[0, 0, 0, 0, ""person"", 0, 0, ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+789,create a note on my ipad,"[""create"", ""a"", ""note"", ""on"", ""my"", ""ipad""]","[0, 0, 0, 0, 0, 0]",Create_note
+790,No sorry could you make it 4pm instead,"[""No"", ""sorry"", ""could"", ""you"", ""make"", ""it"", ""4pm"", ""instead""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+791,Jot a new note down for Robert,"[""Jot"", ""a"", ""new"", ""note"", ""down"", ""for"", ""Robert""]","[0, 0, 0, 0, 0, 0, ""person""]",Create_note
+792,No sorry create that on my iPad instead,"[""No"", ""sorry"", ""create"", ""that"", ""on"", ""my"", ""iPad"", ""instead""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+793,I want to save a note for 3pm,"[""I"", ""want"", ""to"", ""save"", ""a"", ""note"", ""for"", ""3pm""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+794,Remember the pickup for the groceries is at 4pm and swing by for gas afterwards,"[""Remember"", ""the"", ""pickup"", ""for"", ""the"", ""groceries"", ""is"", ""at"", ""4pm"", ""and"", ""swing"", ""by"", ""for"", ""gas"", ""afterwards""]","[""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+795,Write a note to John,"[""Write"", ""a"", ""note"", ""to"", ""John""]","[0, 0, 0, 0, ""person""]",Create_note
+796,Instead lets make it Apple notes,"[""Instead"", ""lets"", ""make"", ""it"", ""Apple"", ""notes""]","[0, 0, 0, 0, 0, 0]",Create_note
+797,Buy new Coldplay album,"[""Buy"", ""new"", ""Coldplay"", ""album""]","[""content"", ""content"", ""content"", ""content""]",Create_note
+798,Please start a new note for Matthew that says check the serial number,"[""Please"", ""start"", ""a"", ""new"", ""note"", ""for"", ""Matthew"", ""that"", ""says"", ""check"", ""the"", ""serial"", ""number""]","[0, 0, 0, 0, 0, 0, ""person"", 0, 0, ""content"", ""content"", ""content"", ""content""]",Create_note
+799,Wait switch the note from going to Matthew to Mark,"[""Wait"", ""switch"", ""the"", ""note"", ""from"", ""going"", ""to"", ""Matthew"", ""to"", ""Mark""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, ""person""]",Create_note
+800,Write it for John instead,"[""Write"", ""it"", ""for"", ""John"", ""instead""]","[0, 0, 0, ""person"", 0]",Create_note
+801,Pick up dry cleaning tomorrow,"[""Pick"", ""up"", ""dry"", ""cleaning"", ""tomorrow""]","[""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+802,Create a note that says Zoom call at 2 pm,"[""Create"", ""a"", ""note"", ""that"", ""says"", ""Zoom"", ""call"", ""at"", ""2"", ""pm""]","[0, 0, 0, 0, 0, ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+803,Write a note for Andie that says call me,"[""Write"", ""a"", ""note"", ""for"", ""Andie"", ""that"", ""says"", ""call"", ""me""]","[0, 0, 0, 0, ""person"", 0, 0, ""content"", ""content""]",Create_note
+804,"actually, please make it on my laptop","[""actually,"", ""please"", ""make"", ""it"", ""on"", ""my"", ""laptop""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+805,"actually, make the note about burgers instead","[""actually,"", ""make"", ""the"", ""note"", ""about"", ""burgers"", ""instead""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+806,Meeting is Monday morning at 10,"[""Meeting"", ""is"", ""Monday"", ""morning"", ""at"", ""10""]","[""content"", ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+807,make a note on macbook,"[""make"", ""a"", ""note"", ""on"", ""macbook""]","[0, 0, 0, 0, 0]",Create_note
+808,Create a new note on my iPad,"[""Create"", ""a"", ""new"", ""note"", ""on"", ""my"", ""iPad""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+809,Call Mom,"[""Call"", ""Mom""]","[""content"", ""content""]",Create_note
+810,New iPhone note,"[""New"", ""iPhone"", ""note""]","[0, 0, 0]",Create_note
+811,Don't forget about piano,"[""Don't"", ""forget"", ""about"", ""piano""]","[""content"", ""content"", ""content"", ""content""]",Create_note
+812,"actually, please make it for Sam","[""actually,"", ""please"", ""make"", ""it"", ""for"", ""Sam""]","[0, 0, 0, 0, 0, ""person""]",Create_note
+813,"Actually, make it for Nick","[""Actually,"", ""make"", ""it"", ""for"", ""Nick""]","[0, 0, 0, 0, ""person""]",Create_note
+814,"Actually, make it to Cole","[""Actually,"", ""make"", ""it"", ""to"", ""Cole""]","[0, 0, 0, 0, ""person""]",Create_note
+815,Pick Karen up from the airport next week,"[""Pick"", ""Karen"", ""up"", ""from"", ""the"", ""airport"", ""next"", ""week""]","[""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content"", ""content""]",Create_note
+816,write a note for 10:30 that says make breakfast,"[""write"", ""a"", ""note"", ""for"", ""10:30"", ""that"", ""says"", ""make"", ""breakfast""]","[0, 0, 0, 0, 0, 0, 0, ""content"", ""content""]",Create_note
+817,write a note on my phone saying pack the charger,"[""write"", ""a"", ""note"", ""on"", ""my"", ""phone"", ""saying"", ""pack"", ""the"", ""charger""]","[0, 0, 0, 0, 0, 0, 0, ""content"", ""content"", ""content""]",Create_note
+818,"actually, write that on my laptop","[""actually,"", ""write"", ""that"", ""on"", ""my"", ""laptop""]","[0, 0, 0, 0, 0, 0]",Create_note
+819,create a note on Apple notes,"[""create"", ""a"", ""note"", ""on"", ""Apple"", ""notes""]","[0, 0, 0, 0, 0, 0]",Create_note
+820,sorry change that and make a note on Alexa,"[""sorry"", ""change"", ""that"", ""and"", ""make"", ""a"", ""note"", ""on"", ""Alexa""]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+821,create a note on the laptop instead,"[""create"", ""a"", ""note"", ""on"", ""the"", ""laptop"", ""instead""]","[0, 0, 0, 0, 0, 0, 0]",Create_note
+822,Make a note.,"[""Make"", ""a"", ""note"", "".""]","[0, 0, 0, 0]",Create_note
+823,"Can you write a new note, please?","[""Can"", ""you"", ""write"", ""a"", ""new"", ""note,"", ""please"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+824,Make a new note for me to David.,"[""Make"", ""a"", ""new"", ""note"", ""for"", ""me"", ""to"", ""David"", "".""]","[0, 0, 0, 0, 0, 0, 0, ""person"", 0]",Create_note
+825,Jot this down.,"[""Jot"", ""this"", ""down"", "".""]","[0, 0, 0, 0]",Create_note
+826,Can you make a note on Google Keep for me?,"[""Can"", ""you"", ""make"", ""a"", ""note"", ""on"", ""Google"", ""Keep"", ""for"", ""me"", ""?""]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Create_note
+827,make a note for later,"[""make"", ""a"", ""note"", ""for"", ""later""]","[0, 0, 0, 0, 0]",Create_note
+828,I want to make a note,"[""I"", ""want"", ""to"", ""make"", ""a"", ""note""]","[0, 0, 0, 0, 0, 0]",Create_note
+829,save note,"[""save"", ""note""]","[0, 0]",Create_note
+830,Initiate note,"[""Initiate"", ""note""]","[0, 0]",Create_note
+831,Create a note,"[""Create"", ""a"", ""note""]","[0, 0, 0]",Create_note
+832,set up a note,"[""set"", ""up"", ""a"", ""note""]","[0, 0, 0, 0]",Create_note
+833,begin note,"[""begin"", ""note""]","[0, 0]",Create_note
+834,start note,"[""start"", ""note""]","[0, 0]",Create_note
+835,Write a note to Rob.,"[""Write"", ""a"", ""note"", ""to"", ""Rob"", "".""]","[0, 0, 0, 0, ""person"", 0]",Create_note
+836,Create a note,"[""Create"", ""a"", ""note""]","[0, 0, 0]",Create_note
+837,Make a new note for tomorrow,"[""Make"", ""a"", ""new"", ""note"", ""for"", ""tomorrow""]","[0, 0, 0, 0, 0, 0]",Create_note
